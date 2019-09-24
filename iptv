@@ -3,6 +3,81 @@
  #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="LABEL",~ Thailand TV ~
 http://www.lengua.com/anthems/Thailand.mp3
 
+#EXTINF:0,CARTOON CLUB HD
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
+#EXTINF:-1,THAI PBS HD
+http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
+#EXTINF:-1,THAIRATH TV HD
+https://live.thairath.co.th/trtv2/playlist_480p/index.m3u8
+#EXTINF:-1,-Thairath TV
+http://live.thairath.co.th/trtv2/playlist.m3u8
+#EXTINF:-1,Gi?ng ?i Gi?ng Ai Kpop
+https://ws.flv.nimo.tv/live/su1599512427552r6613f3cb4ffb5a74123c2b4c30a05049_high.flv
+#EXTINF:-1,PPTV HD
+http://183.182.100.184/live/pptvthai/index.m3u
+#EXTINF:-1,TV5 HD
+http://27.254.62.62:8081/live/tv5stream/chunks.m3u8
+#EXTINF:-1,MCOT HD
+http://183.182.100.184/live/mcothd/index.m3u
+#EXTINF:-1,NEW TV HD
+http://newtv.cdn.byteark.com/live/playlist_360p/index.m3u8
+#EXTINF:-1,WORKPOINT TV HD
+http://122.155.205.9/live/workpoint.stream/chunklist_w1998776218.m3u8
+#EXTINF:-1,TRUE4U HD
+http://183.182.100.184/live/true4u/index.m3u
+#EXTINF:-1,MONO29 HD
+http://183.182.100.184/live/mono29/index.m3u
+#EXTINF:-1,CHANNEL 8 HD
+http://stream.rs.co.th/ch8-hi/index.m3u8
+#EXTINF:-1,BRIGHT TV HD
+http://live4.netdesignhost.com/brighttvlive/brighttvlive/chunklist_w112679112.m3u8
+#EXTINF:-1,MCOT FAMMILY HD
+http://mcotdigital-5nrixa.cdn.byteark.com/mcotfamily/smil:mcotfamily.smil/chunklist_w319792887_b2000000.m3u8
+#EXTINF:-1,CHANNEL 2 HD
+http://stream.rs.co.th/ch2-hi/index.m3u8
+#EXTINF:-1,13 SIAM HD
+http://boonniyomtv-xefg3d.cdn.byteark.com/live/13wDt2b6g4/media_w347232082.m3u8
+#EXTINF:-1,SENATE HD
+http://202.122.40.36/livestream/encoder3/media_w2122111964.m3u8
+#EXTINF:-1,Luxury World
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1,THAI PBS
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1,13 Siam TV
+http://boonniyomtv-xefg3d.cdn.byteark.com/live/13wDt2b6g4/playlist.m3u8
+#EXTINF:-1,Ch 3 HD
+http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:-1,Ch 5
+http://27.254.130.64/live01/wl6.m3u8?p=iptv
+#EXTINF:-1,Ch 7
+http://27.254.130.64/live01/1.m3u8?p=iptv
+#EXTINF:-1,Do Channel
+https://edge1a.v2h-cdn.com/appt3/DoChannel.stream_360p/chunklist.m3u8
+#EXTINF:-1,Dara Daily
+http://27.254.130.64/live01/wl16.m3u8?p=iptv
+#EXTINF:-1,Esan TV
+https://edge1a.v2h-cdn.com/appt3/EsanTV.stream_720p/chunklist.m3u8
+#EXTINF:-1,ETV
+http://61.19.244.112:1935/live/livestream/playlist.m3u8
+#EXTINF:-1,Fan TV
+http://iliketot.dyndns.tv/345a4277dd864037b6b4fb5a562af59c.m3u8
+#EXTINF:-1,Happy TV
+https://edge1a.v2h-cdn.com/appt3/Happy.stream_360p/chunklist_w478520521.m3u8
+#EXTINF:-1,MCOT Family 14
+http://mcotdigital-5nrixa.cdn.byteark.com/mcotfamily/smil:mcotfamily.smil/chunklist_w524236822_b2000000.m3u8
+#EXTINF:-1,MCOT 30
+http://183.182.100.184/live/mcothd/playlist.m3u8
+#EXTINF:-1,NOW 26
+http://27.254.130.64/live01/wl12.m3u8?p=iptv
+#EXTINF:-1,NTB Ch
+http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
+#EXTINF:-1,ONE 31
+http://183.182.100.184/live/onehd/chunklist.m3u8
+#EXTINF:-1,PPTV
+http://183.182.100.184/live/pptvthai/playlist.m3u8
+#EXTINF:-1,Suwannabhumi TV
+http://203.146.129.233:1935/live/mp4:suwan/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbnail.instardara.com/channel/BlueSky.jpg" group-title="THAILAND",Bluesky Channel
 http://live.blueskychannel.tv:1935/bluesky_live/myStream/playlist.m3u8
 
