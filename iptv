@@ -1,12 +1,81 @@
 #EXTM3U
  
+ #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="LABEL",~ Thailand TV ~
+http://www.lengua.com/anthems/Thailand.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbnail.instardara.com/channel/BlueSky.jpg" group-title="THAILAND",Bluesky Channel
+http://live.blueskychannel.tv:1935/bluesky_live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.digitalinsider.co.th/Apps/TT/Images/cabletv.png" group-title="THAILAND",Cable TV
+http://202.173.216.8:1935/live/ch8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thaich2.com/images/logoch2-nm.png" group-title="THAILAND",Channel 2
+http://stream.rs.co.th/ch2-hi/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/97/TV5logo.png" group-title="THAILAND",Channel 5
+http://27.254.62.62:8081/live/tv5stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvshow.tlcthai.com/wp-content/uploads/2016/08/Capture_2016_08_19_07_56_00_253111.png" group-title="THAILAND",Channel 7 (Offline)
+http://edge160.bugaboo.tv/liveedgech7_partner/_definst_/smil:auto.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.onlinethailand.net/tv_online/images/ch8.jpg" group-title="THAILAND",Channel 8
+http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3c/Channel_9_MCOT_HD_2016.png" group-title="THAILAND",Channel 9
+http://lb-media.mcot.net:1935/9mcot_edge/smil:9mcot.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.thaitvonline.tv/wp-content/uploads/2010/03/13-Siamthai.jpg" group-title="THAILAND",Channel 13
+http://stream.13livetv.com:1935/live/13livetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.digitalinsider.co.th/Apps/TT/Images/ddtv.png" group-title="THAILAND",DDTV
+http://203.156.63.20:1935/live/ddtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.digitalinsider.co.th/Apps/TT/Images/etv.png" group-title="THAILAND",ETV
+http://61.19.244.112:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/800px-FOX_wordmark-orange.svg.png" group-title="THAILAND",Fox
+http://cdn2.bear-tv.com/freetv/TOT_foxthai_eng/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-4bDS8U_kohs/AAAAAAAAAAI/AAAAAAAAAAA/zqOD2HZnLFs/s900-c-k-no-mo-rj-c0xffffff/photo.jp" group-title="THAILAND",JCTV
+rtmp://vodjctv.aitstreaming.com:1935/live/live2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.onlinethailand.net/tv_online/images/m-channel.jpg" group-title="THAILAND",M Channel
+http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Nation_TV_Logo.svg/1200px-Nation_TV_Logo.svg.png" group-title="THAILAND",Nation TV (Opt-1)
+http://live.nationtv.tv/hls/ntv_th_sd.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Nation_TV_Logo.svg/1200px-Nation_TV_Logo.svg.png" group-title="THAILAND",Nation TV (Opt-2)
+http://live.nationtv.tv/hls/ntv_th_hd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.policetv.tv/wp-content/uploads/2017/11/POLICETV_280-003_00149.jpg" group-title="THAILAND",Police TV
+http://live.netdesignhost.com/policetvlive/policetvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mazzflix.com/tmp/uploads_livetv_sabuyde_1_300x215.png" group-title="THAILAND",Sabaidee TV
+http://stream.rs.co.th/sbd-low/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.onlinethailand.net/tv_online/images/springnews.jpg" group-title="THAILAND",Spring News
+http://1457077260.cat-cdn.i-iptv.com/T1457077260/ngrp:livestream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/8/89/Thairath_TV32.png/400px-Thairath_TV32.png" group-title="THAILAND",Thairath TV
+http://live.thairath.co.th/trtv2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/th/9/99/Workpoint_TV.png" group-title="THAILAND",Workpoint TV (Opt-1)
+http://plavps.dyndns.org:8081/tv99/chworkpoint/tracks-v1a1/mono.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/th/9/99/Workpoint_TV.png" group-title="THAILAND",Workpoint TV (Opt-2)
+http://main-a.for-our.info:8081/tv99/chworkpoint/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.onlinethailand.net/tv_online/images/you-channel.jpg" group-title="THAILAND",You Channel
+http://stream.rs.co.th/you-hi/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3zzqEti.png" group-title="* Fluxus.tv > Play On!",* Fluxus.tv
 https://fluxustv.blogspot.com@bit.ly/fluxusfish?.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/62H9un9.png" group-title="+ IPTV - Permanent Playlist",+ IPTV
 https://fluxustv.blogspot.com@bit.ly/fluxusfish?.m3u8
  
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="- https://bit.ly/2mYQ675 Update: 09.23.2019",- Update: 09.23.2019
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="- Update: 09.23.2019",- Update: 09.23.2019
 https://fluxustv.blogspot.com@bit.ly/fluxusfish?.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/9/2/9/92974648906048168f2b9fd2e9f3105b_icon.png" group-title="LABEL",~ 24/7 World News ~
@@ -8702,75 +8771,6 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumbarpadang)/Stream(03)/inde
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="INDONESIA",TVRI 3 Budaya (New!)
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(01)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="LABEL",~ Thailand TV ~
-http://www.lengua.com/anthems/Thailand.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbnail.instardara.com/channel/BlueSky.jpg" group-title="THAILAND",Bluesky Channel
-http://live.blueskychannel.tv:1935/bluesky_live/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.digitalinsider.co.th/Apps/TT/Images/cabletv.png" group-title="THAILAND",Cable TV
-http://202.173.216.8:1935/live/ch8/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thaich2.com/images/logoch2-nm.png" group-title="THAILAND",Channel 2
-http://stream.rs.co.th/ch2-hi/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/97/TV5logo.png" group-title="THAILAND",Channel 5
-http://27.254.62.62:8081/live/tv5stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvshow.tlcthai.com/wp-content/uploads/2016/08/Capture_2016_08_19_07_56_00_253111.png" group-title="THAILAND",Channel 7 (Offline)
-http://edge160.bugaboo.tv/liveedgech7_partner/_definst_/smil:auto.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.onlinethailand.net/tv_online/images/ch8.jpg" group-title="THAILAND",Channel 8
-http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3c/Channel_9_MCOT_HD_2016.png" group-title="THAILAND",Channel 9
-http://lb-media.mcot.net:1935/9mcot_edge/smil:9mcot.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.thaitvonline.tv/wp-content/uploads/2010/03/13-Siamthai.jpg" group-title="THAILAND",Channel 13
-http://stream.13livetv.com:1935/live/13livetv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.digitalinsider.co.th/Apps/TT/Images/ddtv.png" group-title="THAILAND",DDTV
-http://203.156.63.20:1935/live/ddtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.digitalinsider.co.th/Apps/TT/Images/etv.png" group-title="THAILAND",ETV
-http://61.19.244.112:1935/live/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/800px-FOX_wordmark-orange.svg.png" group-title="THAILAND",Fox
-http://cdn2.bear-tv.com/freetv/TOT_foxthai_eng/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-4bDS8U_kohs/AAAAAAAAAAI/AAAAAAAAAAA/zqOD2HZnLFs/s900-c-k-no-mo-rj-c0xffffff/photo.jp" group-title="THAILAND",JCTV
-rtmp://vodjctv.aitstreaming.com:1935/live/live2
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.onlinethailand.net/tv_online/images/m-channel.jpg" group-title="THAILAND",M Channel
-http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Nation_TV_Logo.svg/1200px-Nation_TV_Logo.svg.png" group-title="THAILAND",Nation TV (Opt-1)
-http://live.nationtv.tv/hls/ntv_th_sd.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Nation_TV_Logo.svg/1200px-Nation_TV_Logo.svg.png" group-title="THAILAND",Nation TV (Opt-2)
-http://live.nationtv.tv/hls/ntv_th_hd.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.policetv.tv/wp-content/uploads/2017/11/POLICETV_280-003_00149.jpg" group-title="THAILAND",Police TV
-http://live.netdesignhost.com/policetvlive/policetvlive/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mazzflix.com/tmp/uploads_livetv_sabuyde_1_300x215.png" group-title="THAILAND",Sabaidee TV
-http://stream.rs.co.th/sbd-low/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.onlinethailand.net/tv_online/images/springnews.jpg" group-title="THAILAND",Spring News
-http://1457077260.cat-cdn.i-iptv.com/T1457077260/ngrp:livestream_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/8/89/Thairath_TV32.png/400px-Thairath_TV32.png" group-title="THAILAND",Thairath TV
-http://live.thairath.co.th/trtv2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/th/9/99/Workpoint_TV.png" group-title="THAILAND",Workpoint TV (Opt-1)
-http://plavps.dyndns.org:8081/tv99/chworkpoint/tracks-v1a1/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/th/9/99/Workpoint_TV.png" group-title="THAILAND",Workpoint TV (Opt-2)
-http://main-a.for-our.info:8081/tv99/chworkpoint/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.onlinethailand.net/tv_online/images/you-channel.jpg" group-title="THAILAND",You Channel
-http://stream.rs.co.th/you-hi/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://is.alicdn.com/img/esite/member/200305570/5ba3755f39b04a018c962bf05fb89df1_original.png" group-title="LABEL",~ Japan TV ~
 http://www.lengua.com/anthems/Japan.mp3
