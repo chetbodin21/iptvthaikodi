@@ -2,148 +2,149 @@
  
  #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="LABEL",~ Thailand TV ~
 http://www.lengua.com/anthems/Thailand.mp3
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch65.gif" group-title="THAILAND",Gang Cartoon 
+#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch65.gif" group-title="THAI",Gang Cartoon 
 http://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_1000.m3u8
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1048.gif" group-title="THAILAND",BOOMERANG
+#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1048.gif" group-title="THAI",BOOMERANG
 http://27.254.130.64/live01/chsd_T_News_18.m3u8?p=st
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch67.gif" group-title="THAILAND",CARTOON CLUB HD
+#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch67.gif" group-title="THAI",CARTOON CLUB HD
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch6.gif" group-title="THAILAND",THAI PBS HD
+#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch6.gif" group-title="THAI",THAI PBS HD
 http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1018.gif" group-title="THAILAND",THAIRATH TV HD
+#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1018.gif" group-title="THAI",THAIRATH TV HD
 https://live.thairath.co.th/trtv2/playlist_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1018.gif" group-title="THAILAND",-Thairath TV
+#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1018.gif" group-title="THAI",-Thairath TV
 http://live.thairath.co.th/trtv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1024.gif" group-title="THAILAND",PPTV HD
+#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1024.gif" group-title="THAI",PPTV HD
 http://183.182.100.184/live/pptvthai/index.m3u
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch2.gif" group-title="THAILAND",TV5 HD
+#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch2.gif" group-title="THAI",TV5 HD
 http://27.254.62.62:8081/live/tv5stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch4.gif" group-title="THAILAND",MCOT HD
+#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch4.gif" group-title="THAI",MCOT HD
 http://183.182.100.184/live/mcothd/index.m3u
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1021.gif" group-title="THAILAND",NEW TV HD
+#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1021.gif" group-title="THAI",NEW TV HD
 http://newtv.cdn.byteark.com/live/playlist_360p/index.m3u8
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1019.gif" group-title="THAILAND",WORKPOINT TV HD
+#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1019.gif" group-title="THAI",WORKPOINT TV HD
 http://122.155.205.9/live/workpoint.stream/chunklist_w1998776218.m3u8
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1038.gif" group-title="THAILAND",TRUE4U HD
+#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1038.gif" group-title="THAI",TRUE4U HD
 http://183.182.100.184/live/true4u/index.m3u
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1046.gif" group-title="THAILAND",MONO29 HD
+#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1046.gif" group-title="THAI",MONO29 HD
 http://183.182.100.184/live/mono29/index.m3u
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch91.gif" group-title="THAILAND",CHANNEL 8 HD
+#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch91.gif" group-title="THAI",CHANNEL 8 HD
 http://stream.rs.co.th/ch8-hi/index.m3u8
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1047.gif" group-title="THAILAND",BRIGHT TV HD
+#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1047.gif" group-title="THAI",BRIGHT TV HD
 http://live4.netdesignhost.com/brighttvlive/brighttvlive/chunklist_w112679112.m3u8
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1049.gif" group-title="THAILAND",MCOT FAMMILY HD
+#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1049.gif" group-title="THAI",MCOT FAMMILY HD
 http://mcotdigital-5nrixa.cdn.byteark.com/mcotfamily/smil:mcotfamily.smil/chunklist_w319792887_b2000000.m3u8
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch83.gif" group-title="THAILAND",CHANNEL 2 HD
+#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch83.gif" group-title="THAI",CHANNEL 2 HD
 http://stream.rs.co.th/ch2-hi/index.m3u8
-#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="THAILAND",13 SIAM HD
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="THAI",13 SIAM HD
 http://boonniyomtv-xefg3d.cdn.byteark.com/live/13wDt2b6g4/media_w347232082.m3u8
-#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="THAILAND",SENATE HD
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="THAI",SENATE HD
 http://202.122.40.36/livestream/encoder3/media_w2122111964.m3u8
-#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="THAILAND",Luxury World
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="THAI",Luxury World
 http://nano.teleservice.su:8080/hls/luxury.m3u8
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch6.gif" group-title="THAILAND",THAI PBS
+#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch6.gif" group-title="THAI",THAI PBS
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="THAILAND",13 Siam TV
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="THAI",13 Siam TV
 http://boonniyomtv-xefg3d.cdn.byteark.com/live/13wDt2b6g4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1050.gif" group-title="THAILAND",Ch 3 HD
+#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1050.gif" group-title="THAI",Ch 3 HD
 http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch2.gif" group-title="THAILAND",Ch 5
+#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch2.gif" group-title="THAI",Ch 5
 http://27.254.130.64/live01/wl6.m3u8?p=iptv
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch3.gif" group-title="THAILAND",Ch 7
+#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch3.gif" group-title="THAI",Ch 7
 https://edge160.bugaboo.tv/liveedgech7_partner/smil:auto.smil/chunklist_b1210000_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="THAILAND",Do Channel
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="THAI",Do Channel
 https://edge1a.v2h-cdn.com/appt3/DoChannel.stream_360p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="THAILAND",Dara Daily
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="THAI",Dara Daily
 http://27.254.130.64/live01/wl16.m3u8?p=iptv
-#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="THAILAND",Esan TV
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="THAI",Esan TV
 https://edge1a.v2h-cdn.com/appt3/EsanTV.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="THAILAND",ETV
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="THAI",ETV
 http://61.19.244.112:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="THAILAND",Fan TV
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="THAI",Fan TV
 http://iliketot.dyndns.tv/345a4277dd864037b6b4fb5a562af59c.m3u8
-#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="THAILAND",Happy TV
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="THAI",Happy TV
 https://edge1a.v2h-cdn.com/appt3/Happy.stream_360p/chunklist_w478520521.m3u8
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch4.gif" group-title="THAILAND",MCOT Family 14
+#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch4.gif" group-title="THAI",MCOT Family 14
 http://mcotdigital-5nrixa.cdn.byteark.com/mcotfamily/smil:mcotfamily.smil/chunklist_w524236822_b2000000.m3u8
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch4.gif" group-title="THAILAND",MCOT 30
+#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch4.gif" group-title="THAI",MCOT 30
 http://183.182.100.184/live/mcothd/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="THAILAND",NOW 26
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="THAI",NOW 26
 http://27.254.130.64/live01/wl12.m3u8?p=iptv
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch5.gif" group-title="THAILAND",NTB Ch
+#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch5.gif" group-title="THAI",NTB Ch
 http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch104.gif" group-title="THAILAND",ONE 31 
+#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch104.gif" group-title="THAI",ONE 31 
 https://one31-rlbwkq.cdn.byteark.com/live/playlist_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1024.gif" group-title="THAILAND",PPTV
+#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1024.gif" group-title="THAI",PPTV
 http://183.182.100.184/live/pptvthai/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="THAILAND",Suwannabhumi TV
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="THAI",Suwannabhumi TV
 http://203.146.129.233:1935/live/mp4:suwan/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbnail.instardara.com/channel/BlueSky.jpg" group-title="THAILAND",Bluesky Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbnail.instardara.com/channel/BlueSky.jpg" group-title="THAI",Bluesky Channel
 http://live.blueskychannel.tv:1935/bluesky_live/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.digitalinsider.co.th/Apps/TT/Images/cabletv.png" group-title="THAILAND",Cable TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.digitalinsider.co.th/Apps/TT/Images/cabletv.png" group-title="THAI",Cable TV
 http://202.173.216.8:1935/live/ch8/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thaich2.com/images/logoch2-nm.png" group-title="THAILAND",Channel 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thaich2.com/images/logoch2-nm.png" group-title="THAI",Channel 2
 http://stream.rs.co.th/ch2-hi/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/97/TV5logo.png" group-title="THAILAND",Channel 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/97/TV5logo.png" group-title="THAI",Channel 5
 http://27.254.62.62:8081/live/tv5stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvshow.tlcthai.com/wp-content/uploads/2016/08/Capture_2016_08_19_07_56_00_253111.png" group-title="THAILAND",Channel 7 (Offline)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvshow.tlcthai.com/wp-content/uploads/2016/08/Capture_2016_08_19_07_56_00_253111.png" group-title="THAI",Channel 7 (Offline)
 http://edge160.bugaboo.tv/liveedgech7_partner/_definst_/smil:auto.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.onlinethailand.net/tv_online/images/ch8.jpg" group-title="THAILAND",Channel 8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.onlinethailand.net/tv_online/images/ch8.jpg" group-title="THAI",Channel 8
 http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3c/Channel_9_MCOT_HD_2016.png" group-title="THAILAND",Channel 9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3c/Channel_9_MCOT_HD_2016.png" group-title="THAI",Channel 9
 http://lb-media.mcot.net:1935/9mcot_edge/smil:9mcot.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.thaitvonline.tv/wp-content/uploads/2010/03/13-Siamthai.jpg" group-title="THAILAND",Channel 13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.thaitvonline.tv/wp-content/uploads/2010/03/13-Siamthai.jpg" group-title="THAI",Channel 13
 http://stream.13livetv.com:1935/live/13livetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.digitalinsider.co.th/Apps/TT/Images/ddtv.png" group-title="THAILAND",DDTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.digitalinsider.co.th/Apps/TT/Images/ddtv.png" group-title="THAI",DDTV
 http://203.156.63.20:1935/live/ddtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.digitalinsider.co.th/Apps/TT/Images/etv.png" group-title="THAILAND",ETV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.digitalinsider.co.th/Apps/TT/Images/etv.png" group-title="THAI",ETV
 http://61.19.244.112:1935/live/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/800px-FOX_wordmark-orange.svg.png" group-title="THAILAND",Fox
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/800px-FOX_wordmark-orange.svg.png" group-title="THAI",Fox
 http://cdn2.bear-tv.com/freetv/TOT_foxthai_eng/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-4bDS8U_kohs/AAAAAAAAAAI/AAAAAAAAAAA/zqOD2HZnLFs/s900-c-k-no-mo-rj-c0xffffff/photo.jp" group-title="THAILAND",JCTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-4bDS8U_kohs/AAAAAAAAAAI/AAAAAAAAAAA/zqOD2HZnLFs/s900-c-k-no-mo-rj-c0xffffff/photo.jp" group-title="THAI",JCTV
 rtmp://vodjctv.aitstreaming.com:1935/live/live2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.onlinethailand.net/tv_online/images/m-channel.jpg" group-title="THAILAND",M Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.onlinethailand.net/tv_online/images/m-channel.jpg" group-title="THAI",M Channel
 http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Nation_TV_Logo.svg/1200px-Nation_TV_Logo.svg.png" group-title="THAILAND",Nation TV (Opt-1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Nation_TV_Logo.svg/1200px-Nation_TV_Logo.svg.png" group-title="THAI",Nation TV (Opt-1)
 http://live.nationtv.tv/hls/ntv_th_sd.m3u8
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Nation_TV_Logo.svg/1200px-Nation_TV_Logo.svg.png" group-title="THAILAND",Nation TV (Opt-2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Nation_TV_Logo.svg/1200px-Nation_TV_Logo.svg.png" group-title="THAI",Nation TV (Opt-2)
 http://live.nationtv.tv/hls/ntv_th_hd.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.policetv.tv/wp-content/uploads/2017/11/POLICETV_280-003_00149.jpg" group-title="THAILAND",Police TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.policetv.tv/wp-content/uploads/2017/11/POLICETV_280-003_00149.jpg" group-title="THAI",Police TV
 http://live.netdesignhost.com/policetvlive/policetvlive/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mazzflix.com/tmp/uploads_livetv_sabuyde_1_300x215.png" group-title="THAILAND",Sabaidee TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mazzflix.com/tmp/uploads_livetv_sabuyde_1_300x215.png" group-title="THAI",Sabaidee TV
 http://stream.rs.co.th/sbd-low/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.onlinethailand.net/tv_online/images/springnews.jpg" group-title="THAILAND",Spring News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.onlinethailand.net/tv_online/images/springnews.jpg" group-title="THAI",Spring News
 http://1457077260.cat-cdn.i-iptv.com/T1457077260/ngrp:livestream_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/8/89/Thairath_TV32.png/400px-Thairath_TV32.png" group-title="THAILAND",Thairath TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/8/89/Thairath_TV32.png/400px-Thairath_TV32.png" group-title="THAI",Thairath TV
 http://live.thairath.co.th/trtv2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/th/9/99/Workpoint_TV.png" group-title="THAILAND",Workpoint TV (Opt-1)
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/th/9/99/Workpoint_TV.png" group-title="THAI",Workpoint TV (Opt-1)
 http://plavps.dyndns.org:8081/tv99/chworkpoint/tracks-v1a1/mono.m3u8
  
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/th/9/99/Workpoint_TV.png" group-title="THAILAND",Workpoint TV (Opt-2)
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/th/9/99/Workpoint_TV.png" group-title="THAI",Workpoint TV (Opt-2)
 http://main-a.for-our.info:8081/tv99/chworkpoint/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.onlinethailand.net/tv_online/images/you-channel.jpg" group-title="THAILAND",You Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.onlinethailand.net/tv_online/images/you-channel.jpg" group-title="THAI",You Channel
 http://stream.rs.co.th/you-hi/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3zzqEti.png" group-title="* Fluxus.tv > Play On!",* Fluxus.tv
 https://fluxustv.blogspot.com@bit.ly/fluxusfish?.m3u8
