@@ -1,6 +1,6 @@
 #EXTM3U
  
- #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="LABEL",~ Thailand TV ~
+ #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="THAI",~ Thailand TV ~
 http://www.lengua.com/anthems/Thailand.mp3
 #EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch65.gif" group-title="THAI",Gang Cartoon 
 http://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_1000.m3u8
