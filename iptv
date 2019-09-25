@@ -8,7 +8,7 @@ http://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_1000.m3u8
 http://27.254.130.64/live01/chsd_T_News_18.m3u8?p=st
 #EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch67.gif" group-title="THAILAND",CARTOON CLUB HD
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/hd.png" group-title="THAILAND",THAI PBS HD
+#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch6.gif" group-title="THAILAND",THAI PBS HD
 http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1018.gif" group-title="THAILAND",THAIRATH TV HD
 https://live.thairath.co.th/trtv2/playlist_480p/index.m3u8
