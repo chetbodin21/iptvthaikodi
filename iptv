@@ -34,6 +34,11 @@ https://tvrealtime.com/live/BEIN3/chunks.m3u8
 https://cdn237.cloud-streaming.com/freeballsod_c1/trueepl4_480p/chunks.m3u8?nimblesessionid=53135&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDE5IDEyOjQ4OjA4IFBNJmhhc2hfdmFsdWU9UjZLc0xqVXlTaXNxOVUvY0IwU3JEQT09JnZhbGlkbWludXRlcz0xJmlkPTkyMDg5NQ==
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png" group-title="Thailand",True Premier HD5
 https://cdn237.cloud-streaming.com/freeballsod_c1/trueepl5_480p/chunks.m3u8?nimblesessionid=53137&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDE5IDEyOjUzOjAyIFBNJmhhc2hfdmFsdWU9RWI5aTEzSGphTGpwZVVKazhMdEF2QT09JnZhbGlkbWludXRlcz0xJmlkPTcxMDQyMg==
+#EXTINF:-1 tvg-logo="https://www.doofree99.com/xcrud/uploads/g2p4ejvka9wkscc400.png" group-title="Thailand",Bein Sport1
+https://cdn237.cloud-streaming.com/freeballsod_c1/beinsport1_480p/chunks.m3u8?nimblesessionid=53154&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDE5IDE6MDQ6MzYgUE0maGFzaF92YWx1ZT14UDF6UGhmd1VXczdwbS9UeU5kSnN3PT0mdmFsaWRtaW51dGVzPTEmaWQ9NzE1NDUw
+#EXTINF:-1 tvg-logo="https://www.doofree99.com/xcrud/uploads/qg4020g5vu8s0ko48s.png" group-title="Thailand",Bein Sport2
+https://cdn237.cloud-streaming.com/freeballsod_c1/beinsporthd2_480p/chunks.m3u8?nimblesessionid=53158&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDE5IDE6MDk6MzIgUE0maGFzaF92YWx1ZT0rcDJZa1QvNGlSR0dBTUdzbWgyZjJ3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MTMxODI3
+
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fdopfeC.jpg" group-title="Thailand",13 Siam TV
