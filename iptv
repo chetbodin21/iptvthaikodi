@@ -10,37 +10,37 @@ https://fluxustv.blogspot.com@bit.ly/fluxusfish?.m3u8
 http://www.lengua.com/anthems/Thailand.mp3
 #EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch65.gif" group-title="THAI",Gang Cartoon 
 http://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_1000.m3u8
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1048.gif" group-title="THAI",BOOMERANG
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/74b07508-fcd0-4a53-96a0-1b414944629a.png" group-title="THAI",BOOMERANG
 http://27.254.130.64/live01/chsd_T_News_18.m3u8?p=st
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch67.gif" group-title="THAI",CARTOON CLUB HD
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/21/a01a26bb-ed4a-45c5-88a9-ff30f6bbb039.png" group-title="THAI",CARTOON CLUB HD
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch6.gif" group-title="THAI",THAI PBS HD
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/d11e87e3-5ee2-4c3c-85da-9481118e1ca6.png" group-title="THAI",THAI PBS HD
 http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1018.gif" group-title="THAI",THAIRATH TV HD
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/03/15/8761bb82-f902-4372-8b9f-34b019d36fb7.png" group-title="THAI",THAIRATH TV HD
 https://live.thairath.co.th/trtv2/playlist_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1018.gif" group-title="THAI",-Thairath TV
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/03/15/8761bb82-f902-4372-8b9f-34b019d36fb7.png" group-title="THAI",-Thairath TV
 http://live.thairath.co.th/trtv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1024.gif" group-title="THAI",PPTV HD
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/abe06a83-1e37-4dd7-aa4b-29c728954d90.png" group-title="THAI",PPTV HD
 http://183.182.100.184/live/pptvthai/index.m3u
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch2.gif" group-title="THAI",TV5 HD
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/05/14/4c865391-192b-46a0-a31a-4f4d500b4e07_320.png" group-title="THAI",TV5 HD
 http://27.254.62.62:8081/live/tv5stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch4.gif" group-title="THAI",MCOT HD
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/16/482a2a27-3942-4356-8f12-4aec229badc6.png" group-title="THAI",MCOT HD
 http://183.182.100.184/live/mcothd/index.m3u
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1021.gif" group-title="THAI",NEW TV HD
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/7184e10f-806e-40d7-9858-db26dfcce482.png" group-title="THAI",NEW TV HD
 http://newtv.cdn.byteark.com/live/playlist_360p/index.m3u8
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1019.gif" group-title="THAI",WORKPOINT TV HD
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/ac08e9d4-6e97-478f-9c29-fc8e851a8c89.png" group-title="THAI",WORKPOINT TV HD
 http://122.155.205.9/live/workpoint.stream/chunklist_w1998776218.m3u8
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1038.gif" group-title="THAI",TRUE4U HD
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/03/15/58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png" group-title="THAI",TRUE4U HD
 http://183.182.100.184/live/true4u/index.m3u
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1046.gif" group-title="THAI",MONO29 HD
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/35a35017-8473-4953-8474-5c58d805b74a.png" group-title="THAI",MONO29 HD
 http://183.182.100.184/live/mono29/index.m3u
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch91.gif" group-title="THAI",CHANNEL 8 HD
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/02/26/ebe998c5-7d25-402b-ab70-46f1ad6dcc4e.png" group-title="THAI",CHANNEL 8 HD
 http://stream.rs.co.th/ch8-hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1047.gif" group-title="THAI",BRIGHT TV HD
 http://live4.netdesignhost.com/brighttvlive/brighttvlive/chunklist_w112679112.m3u8
 #EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1049.gif" group-title="THAI",MCOT FAMMILY HD
 http://mcotdigital-5nrixa.cdn.byteark.com/mcotfamily/smil:mcotfamily.smil/chunklist_w319792887_b2000000.m3u8
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch83.gif" group-title="THAI",CHANNEL 2 HD
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/19/5e2c73bb-ac9d-42df-ac86-86878f06fde6.png" group-title="THAI",CHANNEL 2 HD
 http://stream.rs.co.th/ch2-hi/index.m3u8
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="THAI",13 SIAM HD
 http://boonniyomtv-xefg3d.cdn.byteark.com/live/13wDt2b6g4/media_w347232082.m3u8
@@ -48,15 +48,15 @@ http://boonniyomtv-xefg3d.cdn.byteark.com/live/13wDt2b6g4/media_w347232082.m3u8
 http://202.122.40.36/livestream/encoder3/media_w2122111964.m3u8
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="THAI",Luxury World
 http://nano.teleservice.su:8080/hls/luxury.m3u8
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch6.gif" group-title="THAI",THAI PBS
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/d11e87e3-5ee2-4c3c-85da-9481118e1ca6.png" group-title="THAI",THAI PBS
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="THAI",13 Siam TV
 http://boonniyomtv-xefg3d.cdn.byteark.com/live/13wDt2b6g4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1050.gif" group-title="THAI",Ch 3 HD
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/1f3fcecb-9fbe-44fe-9e46-61c68ededb56.png" group-title="THAI",Ch 3 HD
 http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch2.gif" group-title="THAI",Ch 5
 http://27.254.130.64/live01/wl6.m3u8?p=iptv
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch3.gif" group-title="THAI",Ch 7
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/1b6b5ad2-a97c-4935-886a-bc6c60073f67.png" group-title="THAI",Ch 7
 https://edge160.bugaboo.tv/liveedgech7_partner/smil:auto.smil/chunklist_b1210000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="THAI",Do Channel
 https://edge1a.v2h-cdn.com/appt3/DoChannel.stream_360p/chunklist.m3u8
@@ -76,11 +76,11 @@ http://mcotdigital-5nrixa.cdn.byteark.com/mcotfamily/smil:mcotfamily.smil/chunkl
 http://183.182.100.184/live/mcothd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="THAI",NOW 26
 http://27.254.130.64/live01/wl12.m3u8?p=iptv
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch5.gif" group-title="THAI",NTB Ch
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/bd72a81b-e87a-4edf-bbe0-cae1dd0f88b9.png" group-title="THAI",NTB Ch
 http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch104.gif" group-title="THAI",ONE 31 
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/16/396384be-35dc-4d11-bf04-06c9546ec7bc.png" group-title="THAI",ONE 31 
 https://one31-rlbwkq.cdn.byteark.com/live/playlist_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1024.gif" group-title="THAI",PPTV
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/abe06a83-1e37-4dd7-aa4b-29c728954d90.png" group-title="THAI",PPTV
 http://183.182.100.184/live/pptvthai/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="THAI",Suwannabhumi TV
 http://203.146.129.233:1935/live/mp4:suwan/chunklist.m3u8
