@@ -14,6 +14,10 @@ http://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_1000.m3u8
 http://27.254.130.64/live01/chsd_T_News_18.m3u8?p=st
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/21/a01a26bb-ed4a-45c5-88a9-ff30f6bbb039.png" group-title="Thailand",CARTOON CLUB HD
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
+#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/gmm25.jpg" group-title="Thailand",GMM 25
+http://27.254.130.64/live01/chsd_GMM_11.m3u8?p=st
+#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/tnn24.jpg" group-title="Thailand",TNN 24
+http://27.254.130.64/live01/chsd_TNN_5.m3u8?p=st
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fdopfeC.jpg" group-title="Thailand",13 Siam TV
