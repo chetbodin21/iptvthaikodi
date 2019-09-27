@@ -22,8 +22,6 @@ http://27.254.130.64/live01/chsd_TNN_5.m3u8?p=st
 https://video-weaver.bkk01.hls.ttvnw.net/v1/playlist/CqYEOQh9Uwvix8pzm20WikF9QVLxp2o4E4bd78cx-Yd8a2L6_FlBLcbibJHv9zUBSCH6ESaWvKfjAcjUxdRKGKUxcfS22TN79EnR0HsdvF2ZkYBhM5wXdOx046dKGRANixz3CzKUeQRtSZb6T7ex_03gLbt5nd6g202sN9i2jp_DCL-KNgiDgz1gHY-OJh2XBPZdBmaAKB-8KhBoI4j1HkYmwL0kKPAdyr4iwnQF-0ep1Y6T_GkhrBwFM9e6s00qZiSj_Cc3e0pvESKrjCIf1uHz6okULofH0tizQwCu-3HkqehGHd5vI5a7Qb1t5lkSAlds0T1-9QGQo28vZS6ZgB1SfURx1n5ypMJu4D5dnuWm6jpw8vwr_WhixDKSy55QN-pBp5RXzvx7fkXAvrDs-psG7ezq2a0Tgap_lSF9bknzBMSFghTm_xORBupkfdHagJ-d0UTRrn3Cddg9KrBpMFNjpnji3pmrIJnc7RMH3nwdJLbHe7iV1sWSik5ZzU9v0iHs4txOFk84nqheRIoRFk_1qDkf2IcG-en24gA0iB8ZFYqKitqhSRumf7znUriSKWmuhHMj6PLIwumK62qilE8fO1GI9-x8ulChDxr82NWwGMBr0wPSFtq94-ntksAiwcS7clUav9IUPMM3GL055OuhmIg05YwOwvg7zoJ6NRQVkFm2VaZDn-7VFc6kWrSmKrSKg9CWU0pglYex1Ia4O1zcRnTHJPKzCxIQyUJsA_3ttZF9bmQhPZdp0hoMs8L-zwkVdDe08iTi.m3u8
 #EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/news1.jpg" group-title="Thailand",NEWS1
 http://news1.live14.com/stream/news1_hi.m3u8
-#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/major-mix.jpg" group-title="Thailand",Mix Major
-https://edge1a.v2h-cdn.com/appt7/Mix_major.stream_360p/chunklist_w499907917.m3u8
 #EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/parliament.jpg" group-title="Thailand",ทีวี รัฐสภา
 http://202.57.162.55:1935/live05/live05/chunklist_w1512234356.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="Thailand",True Premier HD1
