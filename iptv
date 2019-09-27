@@ -34,6 +34,12 @@ https://tvrealtime.com/live/BEIN3/chunks.m3u8
 https://cdn237.cloud-streaming.com/freeballsod_c1/trueepl4_480p/chunks.m3u8?nimblesessionid=53135&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDE5IDEyOjQ4OjA4IFBNJmhhc2hfdmFsdWU9UjZLc0xqVXlTaXNxOVUvY0IwU3JEQT09JnZhbGlkbWludXRlcz0xJmlkPTkyMDg5NQ==
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png" group-title="Thailand",True Premier HD5
 https://cdn237.cloud-streaming.com/freeballsod_c1/trueepl5_480p/chunks.m3u8?nimblesessionid=53137&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDE5IDEyOjUzOjAyIFBNJmhhc2hfdmFsdWU9RWI5aTEzSGphTGpwZVVKazhMdEF2QT09JnZhbGlkbWludXRlcz0xJmlkPTcxMDQyMg==
+#EXTINF:-1 tvg-logo="https://www.doofree99.com/xcrud/uploads/guin4r3yta80gk44k8.png" group-title="Thailand",TrueSport HD1
+https://cdn237.cloud-streaming.com/freeballsod_c1/2sporthd1_480p/chunks.m3u8?nimblesessionid=53177&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDE5IDE6NDk6MTggUE0maGFzaF92YWx1ZT0xNFJORHpxRmRVWEllUFVvV1lpTjVRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MzkwMTQ0
+#EXTINF:-1 tvg-logo="https://www.doofree99.com/xcrud/uploads/y07ldpt07z4k4oo8cs.png" group-title="Thailand",TrueSport HD2
+https://cdn237.cloud-streaming.com/freeballsod_c1/2sporthd2_480p/chunks.m3u8?nimblesessionid=53181&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDE5IDE6NTE6MDAgUE0maGFzaF92YWx1ZT1iRW1hbjNHUW9PWU5vdStoR2w5bUJRPT0mdmFsaWRtaW51dGVzPTEmaWQ9OTcxODg5
+#EXTINF:-1 tvg-logo="https://www.doofree99.com/xcrud/uploads/byl3rx8pxrco40w0o0.png" group-title="Thailand",TrueSport HD3
+https://cdn237.cloud-streaming.com/freeballsod_c1/2sporthd3_480p/chunks.m3u8?nimblesessionid=53183&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDE5IDE6NTM6NTYgUE0maGFzaF92YWx1ZT1uNXhWMnRROW1aY2NpMkFUaGQ3NlZRPT0mdmFsaWRtaW51dGVzPTEmaWQ9NjQ5ODE5
 #EXTINF:-1 tvg-logo="https://www.doofree99.com/xcrud/uploads/g2p4ejvka9wkscc400.png" group-title="Thailand",Bein Sport1
 https://cdn237.cloud-streaming.com/freeballsod_c1/beinsport1_480p/chunks.m3u8?nimblesessionid=53154&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDE5IDE6MDQ6MzYgUE0maGFzaF92YWx1ZT14UDF6UGhmd1VXczdwbS9UeU5kSnN3PT0mdmFsaWRtaW51dGVzPTEmaWQ9NzE1NDUw
 #EXTINF:-1 tvg-logo="https://www.doofree99.com/xcrud/uploads/qg4020g5vu8s0ko48s.png" group-title="Thailand",Bein Sport2
