@@ -14,7 +14,7 @@ http://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_1000.m3u8
 http://27.254.130.64/live01/chsd_T_News_18.m3u8?p=st
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/21/a01a26bb-ed4a-45c5-88a9-ff30f6bbb039.png" group-title="Thailand",CARTOON CLUB HD
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/01393493-1e29-4eb5-869b-1bd3e60b7b76.png" group-title="Thailand",Cartoon Network
+#EXTINF:-1 tvg-logo="tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/01393493-1e29-4eb5-869b-1bd3e60b7b76.png" group-title="Thailand",Cartoon Network
 https://live.we-play.tv/app/cnhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDE5IDM6NTM6NTYgUE0maGFzaF92YWx1ZT1lcWJxVVVXTFNZNzdDeG55aUt1OEJ3PT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/gmm25.jpg" group-title="Thailand",GMM 25
 http://27.254.130.64/live01/chsd_GMM_11.m3u8?p=st
@@ -70,15 +70,15 @@ https://live.dufree4k.net/02_TrueFilmHD2_720p/chunklist.m3u8
 https://live.dufree4k.net/02_TrueFilmHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-foxpremium.png" group-title="Thailand",FOX MOVIES PREMIUM TH
 https://live.dufree4k.net/02_FoxMoviesTH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/foxth.jpg" group-title="Thailand",Fox TH
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/foxth.jpg" group-title="Thailand",Fox TH
 https://live.we-play.tv/app/foxth/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDE5IDM6NTE6MTggUE0maGFzaF92YWx1ZT1VS0t0MDJiMzlqWHNTZFdhNy9CSWFBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/hbo-hd.jpg" group-title="Thailand",HBO HD
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/hbo-hd.jpg" group-title="Thailand",HBO HD
 https://live.we-play.tv/app/hbo-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDE5IDM6NTI6MzkgUE0maGFzaF92YWx1ZT0vZVlacHB1dVFVMXYxSVBDc0F6LzF3PT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/hbo-hit.jpg" group-title="Thailand",HBO Hit
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/hbo-hit.jpg" group-title="Thailand",HBO Hit
 https://live.we-play.tv/app/hbo-hit/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDE5IDM6NTE6NTIgUE0maGFzaF92YWx1ZT01ZjNuZ2I1M1RSTDU0Ti96YnNlM3FBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/hbo-signature.jpg" group-title="Thailand",HBO Signature
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/hbo-signature.jpg" group-title="Thailand",HBO Signature
 https://live.we-play.tv/app/hbo-signature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDE5IDM6NTI6NTYgUE0maGFzaF92YWx1ZT1xL3FiTEFhVjF2WGZmQW9CSGlNdHF3PT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/hbo-family.jpg" group-title="Thailand",HBO Family
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/hbo-family.jpg" group-title="Thailand",HBO Family
 https://live.we-play.tv/app/hbo-family/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDE5IDM6NTM6MzIgUE0maGFzaF92YWx1ZT1RTUlsZHZsN2w1cVpWWlRSS1NpR2x3PT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTM3U
