@@ -58,9 +58,9 @@ https://live.dufree4k.net/02_NatGeoHD_TH_720p/chunklist.m3u8
 https://live.dufree4k.net/02_NatGeoWild_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/07/hd-natgeopeople.jpg" group-title="Thailand",NatGeoPEOPLE HD
 https://live.dufree4k.net/02_NatPeopleHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/discovery.jpg" group-title="Thailand",Discovery
+#EXTINF:-1 tvg-logo=""https://www.we-play.tv/wp-content/uploads/2019/03/discovery.jpg" group-title="Thailand",Discovery
 https://live.we-play.tv/app/discovery/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDE5IDM6NTA6MjUgUE0maGFzaF92YWx1ZT1kRzFGWG9KV0h4ZDUyQWZSUWE0aEt3PT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/h2.jpg" group-title="Thailand",H2
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/h2.jpg" group-title="Thailand",H2
 https://live.we-play.tv/app/h2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDE5IDM6NTQ6NTYgUE0maGFzaF92YWx1ZT01YTJNSmoxd0R4bXlaejJhZERWZThBPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-warnertv.png" group-title="Thailand",WarnerTVHD
 https://live.dufree4k.net/02_WarnerTVHD_720p/chunklist.m3u8
