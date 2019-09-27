@@ -18,6 +18,8 @@ http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/m
 http://27.254.130.64/live01/chsd_GMM_11.m3u8?p=st
 #EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/tnn24.jpg" group-title="Thailand",TNN 24
 http://27.254.130.64/live01/chsd_TNN_5.m3u8?p=st
+#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/voicetv.jpg" group-title="Thailand",VoiceTV
+https://video-weaver.bkk01.hls.ttvnw.net/v1/playlist/CqYEOQh9Uwvix8pzm20WikF9QVLxp2o4E4bd78cx-Yd8a2L6_FlBLcbibJHv9zUBSCH6ESaWvKfjAcjUxdRKGKUxcfS22TN79EnR0HsdvF2ZkYBhM5wXdOx046dKGRANixz3CzKUeQRtSZb6T7ex_03gLbt5nd6g202sN9i2jp_DCL-KNgiDgz1gHY-OJh2XBPZdBmaAKB-8KhBoI4j1HkYmwL0kKPAdyr4iwnQF-0ep1Y6T_GkhrBwFM9e6s00qZiSj_Cc3e0pvESKrjCIf1uHz6okULofH0tizQwCu-3HkqehGHd5vI5a7Qb1t5lkSAlds0T1-9QGQo28vZS6ZgB1SfURx1n5ypMJu4D5dnuWm6jpw8vwr_WhixDKSy55QN-pBp5RXzvx7fkXAvrDs-psG7ezq2a0Tgap_lSF9bknzBMSFghTm_xORBupkfdHagJ-d0UTRrn3Cddg9KrBpMFNjpnji3pmrIJnc7RMH3nwdJLbHe7iV1sWSik5ZzU9v0iHs4txOFk84nqheRIoRFk_1qDkf2IcG-en24gA0iB8ZFYqKitqhSRumf7znUriSKWmuhHMj6PLIwumK62qilE8fO1GI9-x8ulChDxr82NWwGMBr0wPSFtq94-ntksAiwcS7clUav9IUPMM3GL055OuhmIg05YwOwvg7zoJ6NRQVkFm2VaZDn-7VFc6kWrSmKrSKg9CWU0pglYex1Ia4O1zcRnTHJPKzCxIQyUJsA_3ttZF9bmQhPZdp0hoMs8L-zwkVdDe08iTi.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fdopfeC.jpg" group-title="Thailand",13 Siam TV
