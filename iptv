@@ -18,8 +18,10 @@ http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/m
 http://27.254.130.64/live01/chsd_GMM_11.m3u8?p=st
 #EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/tnn24.jpg" group-title="Thailand",TNN 24
 http://27.254.130.64/live01/chsd_TNN_5.m3u8?p=st
+
 #EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/voicetv.jpg" group-title="Thailand",VoiceTV
 https://video-weaver.bkk01.hls.ttvnw.net/v1/playlist/CqYEOQh9Uwvix8pzm20WikF9QVLxp2o4E4bd78cx-Yd8a2L6_FlBLcbibJHv9zUBSCH6ESaWvKfjAcjUxdRKGKUxcfS22TN79EnR0HsdvF2ZkYBhM5wXdOx046dKGRANixz3CzKUeQRtSZb6T7ex_03gLbt5nd6g202sN9i2jp_DCL-KNgiDgz1gHY-OJh2XBPZdBmaAKB-8KhBoI4j1HkYmwL0kKPAdyr4iwnQF-0ep1Y6T_GkhrBwFM9e6s00qZiSj_Cc3e0pvESKrjCIf1uHz6okULofH0tizQwCu-3HkqehGHd5vI5a7Qb1t5lkSAlds0T1-9QGQo28vZS6ZgB1SfURx1n5ypMJu4D5dnuWm6jpw8vwr_WhixDKSy55QN-pBp5RXzvx7fkXAvrDs-psG7ezq2a0Tgap_lSF9bknzBMSFghTm_xORBupkfdHagJ-d0UTRrn3Cddg9KrBpMFNjpnji3pmrIJnc7RMH3nwdJLbHe7iV1sWSik5ZzU9v0iHs4txOFk84nqheRIoRFk_1qDkf2IcG-en24gA0iB8ZFYqKitqhSRumf7znUriSKWmuhHMj6PLIwumK62qilE8fO1GI9-x8ulChDxr82NWwGMBr0wPSFtq94-ntksAiwcS7clUav9IUPMM3GL055OuhmIg05YwOwvg7zoJ6NRQVkFm2VaZDn-7VFc6kWrSmKrSKg9CWU0pglYex1Ia4O1zcRnTHJPKzCxIQyUJsA_3ttZF9bmQhPZdp0hoMs8L-zwkVdDe08iTi.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/news1.jpg" group-title="Thailand",NEWS1
 http://news1.live14.com/stream/news1_hi.m3u8
 #EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/parliament.jpg" group-title="Thailand",ทีวี รัฐสภา
@@ -48,8 +50,7 @@ https://cdn237.cloud-streaming.com/freeballsod_c1/beinsporthd2_480p/chunks.m3u8?
 https://live.dufree4k.net/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/07/hd-samrujlok.jpg" group-title="Thailand",สำรวจโลก HD
 https://live.dufree4k.net/sumrujlok_goodtv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/h2.jpg" group-title="Thailand",H2
-https://live.we-play.tv/app/h2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDE5IDQ6MzU6NDUgUE0maGFzaF92YWx1ZT1adjQvSXZ0SW5xcEx1NnI5N2xwNDRnPT0mdmFsaWRtaW51dGVzPTIw
+
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-history.png" group-title="Thailand",HISTORY HD
 https://live.dufree4k.net/02_HISTORYHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-natgeo.png" group-title="Thailand",NatGeoHD TH
