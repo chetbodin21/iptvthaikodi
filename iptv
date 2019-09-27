@@ -86,6 +86,8 @@ https://live.we-play.tv/app/hbo-signature/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rp
 https://live.we-play.tv/app/hbo-family/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDE5IDU6MTc6MTIgUE0maGFzaF92YWx1ZT1NL1I0RTdGdCsxbmxCcDdkUGdiVHdBPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/foxth.jpg" group-title="Thailand",Fox TH
 https://live.we-play.tv/app/foxth/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDE5IDU6MTc6MzIgUE0maGFzaF92YWx1ZT1UYitZUjlKSTJGOUh6RWZDb01CREdRPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png" group-title="Thailand",FoxAction TH
+https://live.youlive-cdn.com/02_FoxActionHD_TH_720p/chunklist.m3u8
 
 
 #EXTM3U
