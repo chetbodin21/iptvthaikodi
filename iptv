@@ -48,6 +48,8 @@ https://cdn237.cloud-streaming.com/freeballsod_c1/beinsporthd2_480p/chunks.m3u8?
 https://live.dufree4k.net/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/07/hd-samrujlok.jpg" group-title="Thailand",สำรวจโลก HD
 https://live.dufree4k.net/sumrujlok_goodtv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/07/hd-mysci.jpg" group-title="Thailand",MYSCI HD
+https://live.we-play.tv/live/mysci/chunks.m3u8?nimblesessionid=1644720
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-history.png" group-title="Thailand",HISTORY HD
 https://live.dufree4k.net/02_HISTORYHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-natgeo.png" group-title="Thailand",NatGeoHD TH
@@ -62,7 +64,8 @@ https://live.dufree4k.net/02_WarnerTVHD_720p/chunklist.m3u8
 https://live.dufree4k.net/02_TrueFilmHD2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/07/hd-tfilm.jpg" group-title="Thailand",TRUE FILM HD
 https://live.dufree4k.net/02_TrueFilmHD1_720p/chunklist.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-foxpremium.png" group-title="Thailand",FOX MOVIES PREMIUM TH
+https://live.dufree4k.net/02_FoxMoviesTH_720p/chunklist.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fdopfeC.jpg" group-title="Thailand",13 Siam TV
