@@ -37,27 +37,27 @@ https://tvrealtime.com/live/BEIN2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_original.png" group-title="Thailand",True Premier HD3
 https://tvrealtime.com/live/BEIN3/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png" group-title="Thailand",True Premier HD4
-https://cdn237.cloud-streaming.com/freeballsod_c1/trueepl4_480p/chunks.m3u8?nimblesessionid=53135&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDE5IDEyOjQ4OjA4IFBNJmhhc2hfdmFsdWU9UjZLc0xqVXlTaXNxOVUvY0IwU3JEQT09JnZhbGlkbWludXRlcz0xJmlkPTkyMDg5NQ==
+https://live.youlive-cdn.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png" group-title="Thailand",True Premier HD5
 https://cdn237.cloud-streaming.com/freeballsod_c1/trueepl5_480p/chunks.m3u8?nimblesessionid=53137&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDE5IDEyOjUzOjAyIFBNJmhhc2hfdmFsdWU9RWI5aTEzSGphTGpwZVVKazhMdEF2QT09JnZhbGlkbWludXRlcz0xJmlkPTcxMDQyMg==
 #EXTINF:-1 tvg-logo="https://www.doofree99.com/xcrud/uploads/guin4r3yta80gk44k8.png" group-title="Thailand",TrueSport HD1
-https://cdn237.cloud-streaming.com/freeballsod_c1/2sporthd1_480p/chunks.m3u8?nimblesessionid=53177&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDE5IDE6NDk6MTggUE0maGFzaF92YWx1ZT0xNFJORHpxRmRVWEllUFVvV1lpTjVRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MzkwMTQ0
+https://live.youlive-cdn.com/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doofree99.com/xcrud/uploads/y07ldpt07z4k4oo8cs.png" group-title="Thailand",TrueSport HD2
-https://cdn237.cloud-streaming.com/freeballsod_c1/2sporthd2_480p/chunks.m3u8?nimblesessionid=53181&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDE5IDE6NTE6MDAgUE0maGFzaF92YWx1ZT1iRW1hbjNHUW9PWU5vdStoR2w5bUJRPT0mdmFsaWRtaW51dGVzPTEmaWQ9OTcxODg5
+https://live.youlive-cdn.com/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doofree99.com/xcrud/uploads/byl3rx8pxrco40w0o0.png" group-title="Thailand",TrueSport HD3
-https://cdn237.cloud-streaming.com/freeballsod_c1/2sporthd3_480p/chunks.m3u8?nimblesessionid=53183&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDE5IDE6NTM6NTYgUE0maGFzaF92YWx1ZT1uNXhWMnRROW1aY2NpMkFUaGQ3NlZRPT0mdmFsaWRtaW51dGVzPTEmaWQ9NjQ5ODE5
+https://live.youlive-cdn.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doofree99.com/xcrud/uploads/g2p4ejvka9wkscc400.png" group-title="Thailand",Bein Sport1
-https://cdn237.cloud-streaming.com/freeballsod_c1/beinsport1_480p/chunks.m3u8?nimblesessionid=53154&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDE5IDE6MDQ6MzYgUE0maGFzaF92YWx1ZT14UDF6UGhmd1VXczdwbS9UeU5kSnN3PT0mdmFsaWRtaW51dGVzPTEmaWQ9NzE1NDUw
+https://live.youlive-cdn.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doofree99.com/xcrud/uploads/qg4020g5vu8s0ko48s.png" group-title="Thailand",Bein Sport2
-https://cdn237.cloud-streaming.com/freeballsod_c1/beinsporthd2_480p/chunks.m3u8?nimblesessionid=53158&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDE5IDE6MDk6MzIgUE0maGFzaF92YWx1ZT0rcDJZa1QvNGlSR0dBTUdzbWgyZjJ3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MTMxODI3
+https://live.youlive-cdn.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-tennis.png" group-title="Thailand",TENNIS HD
 https://live.dufree4k.net/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/07/hd-samrujlok.jpg" group-title="Thailand",สำรวจโลก HD
 https://live.dufree4k.net/sumrujlok_goodtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/discovery.jpg" group-title="Thailand",Discovery
-https://live.we-play.tv/app/discovery/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDE5IDQ6NTg6MDUgUE0maGFzaF92YWx1ZT10UlRKQjN6Y3BWYmI3dFZzUU1UclVnPT0mdmFsaWRtaW51dGVzPTIw
+https://live.youlive-cdn.com/02_DiscoveryChannel/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/h2.jpg" group-title="Thailand",H2
-https://live.we-play.tv/app/h2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDE5IDQ6MzU6NDUgUE0maGFzaF92YWx1ZT1adjQvSXZ0SW5xcEx1NnI5N2xwNDRnPT0mdmFsaWRtaW51dGVzPTIw
+https://live.youlive-cdn.com/02_H2HD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-history.png" group-title="Thailand",HISTORY HD
 https://live.dufree4k.net/02_HISTORYHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-natgeo.png" group-title="Thailand",NatGeoHD TH
