@@ -4,9 +4,7 @@
 https://fluxustv.blogspot.com@bit.ly/fluxusfish?.m3u8
 
 
-
-
- #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="LABEL",~ Thailand TV ~
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="LABEL",~ Thailand TV ~
 http://www.lengua.com/anthems/Thailand.mp3
 #EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch65.gif" group-title="Thailand",Gang Cartoon 
 http://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_1000.m3u8
@@ -88,6 +86,12 @@ https://live.we-play.tv/app/hbo-family/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU
 https://live.we-play.tv/app/foxth/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDE5IDU6MTc6MzIgUE0maGFzaF92YWx1ZT1UYitZUjlKSTJGOUh6RWZDb01CREdRPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png" group-title="Thailand",FoxAction TH
 https://live.youlive-cdn.com/02_FoxActionHD_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fox.png" group-title="Thailand",FOX THAI
+https://live.youlive-cdn.com/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-fx.jpg" group-title="Thailand",FXHD TH
+https://live.youlive-cdn.com/02_FXThailand_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxcrime.jpg" group-title="Thailand",FoxCrimeHD TH
+https://live.youlive-cdn.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
 
 
 #EXTM3U
