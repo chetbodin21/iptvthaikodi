@@ -27,51 +27,51 @@ http://bit.ly/2njgEA8
 https://video-weaver.bkk01.hls.ttvnw.net/v1/playlist/CqYEOQh9Uwvix8pzm20WikF9QVLxp2o4E4bd78cx-Yd8a2L6_FlBLcbibJHv9zUBSCH6ESaWvKfjAcjUxdRKGKUxcfS22TN79EnR0HsdvF2ZkYBhM5wXdOx046dKGRANixz3CzKUeQRtSZb6T7ex_03gLbt5nd6g202sN9i2jp_DCL-KNgiDgz1gHY-OJh2XBPZdBmaAKB-8KhBoI4j1HkYmwL0kKPAdyr4iwnQF-0ep1Y6T_GkhrBwFM9e6s00qZiSj_Cc3e0pvESKrjCIf1uHz6okULofH0tizQwCu-3HkqehGHd5vI5a7Qb1t5lkSAlds0T1-9QGQo28vZS6ZgB1SfURx1n5ypMJu4D5dnuWm6jpw8vwr_WhixDKSy55QN-pBp5RXzvx7fkXAvrDs-psG7ezq2a0Tgap_lSF9bknzBMSFghTm_xORBupkfdHagJ-d0UTRrn3Cddg9KrBpMFNjpnji3pmrIJnc7RMH3nwdJLbHe7iV1sWSik5ZzU9v0iHs4txOFk84nqheRIoRFk_1qDkf2IcG-en24gA0iB8ZFYqKitqhSRumf7znUriSKWmuhHMj6PLIwumK62qilE8fO1GI9-x8ulChDxr82NWwGMBr0wPSFtq94-ntksAiwcS7clUav9IUPMM3GL055OuhmIg05YwOwvg7zoJ6NRQVkFm2VaZDn-7VFc6kWrSmKrSKg9CWU0pglYex1Ia4O1zcRnTHJPKzCxIQyUJsA_3ttZF9bmQhPZdp0hoMs8L-zwkVdDe08iTi.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/news1.jpg" group-title="Thailand",NEWS1
-http://news1.live14.com/stream/news1_hi.m3u8
+http://bit.ly/2mj0iYc
 #EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/parliament.jpg" group-title="Thailand",ทีวี รัฐสภา
-http://202.57.162.55:1935/live05/live05/chunklist_w1512234356.m3u8
+http://bit.ly/2njo7iy
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="Thailand",True Premier HD1
-https://tvrealtime.com/live/BEIN1/chunks.m3u8
+http://bit.ly/2nls3PM
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="Thailand",True Premier HD2
-https://tvrealtime.com/live/BEIN2/chunks.m3u8
+http://bit.ly/2lHLf9U
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_original.png" group-title="Thailand",True Premier HD3
-https://tvrealtime.com/live/BEIN3/chunks.m3u8
+http://bit.ly/2niyYcH
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png" group-title="Thailand",True Premier HD4
-https://live.youlive-cdn.com/02_PremierHD4_720p/chunklist.m3u8
+http://bit.ly/2mj1Gdm
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png" group-title="Thailand",True Premier HD5 (ติดauthรอแก้ไข)
 https://cdn237.cloud-streaming.com/freeballsod_c1/trueepl5_480p/chunks.m3u8?nimblesessionid=53354&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDE5IDY6NDc6MjMgUE0maGFzaF92YWx1ZT1vY0tXaVN6OS9hY2JNOTlOM0xUS2NBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjkxODU4
 #EXTINF:-1 tvg-logo="https://www.doofree99.com/xcrud/uploads/guin4r3yta80gk44k8.png" group-title="Thailand",TrueSport HD1
-https://live.youlive-cdn.com/02_2sporthd1_720p/chunklist.m3u8
+http://bit.ly/2npA6uM
 #EXTINF:-1 tvg-logo="https://www.doofree99.com/xcrud/uploads/y07ldpt07z4k4oo8cs.png" group-title="Thailand",TrueSport HD2
-https://live.youlive-cdn.com/02_2sporthd2_720p/chunklist.m3u8
+http://bit.ly/2miSSUR
 #EXTINF:-1 tvg-logo="https://www.doofree99.com/xcrud/uploads/byl3rx8pxrco40w0o0.png" group-title="Thailand",TrueSport HD3
-https://live.youlive-cdn.com/02_2sporthd3_720p/chunklist.m3u8
+http://bit.ly/2nSvBcu
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport2.png" group-title="Thailand",TrueSport2
-https://live.youlive-cdn.com/02_sport2_480p/chunklist.m3u8
+http://bit.ly/2nY3MQ5
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport5.png" group-title="Thailand",Truesport5
-https://live.youlive-cdn.com/02_sport5_480p/chunklist.m3u8
+http://bit.ly/2nqtCfb
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport6.png" group-title="Thailand",Truesport6
-https://live.youlive-cdn.com/02_sport6_480p/chunklist.m3u8
+http://bit.ly/2njHJTG
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport7.png" group-title="Thailand",Truesport7
-https://live.youlive-cdn.com/02_sport7_480p/chunklist.m3u8
+http://bit.ly/2lLxreB
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxsports1.png" group-title="Thailand",FoxSport
-https://live.youlive-cdn.com/02_foxsport_720p/chunklist.m3u8
+http://bit.ly/2lOnvBd
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports2.png" group-title="Thailand",FoxSport2
-https://live.youlive-cdn.com/02_FoxSport2_TH_720p/chunklist.m3u8
+http://bit.ly/2lPtoOw
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png" group-title="Thailand",FoxSport3
-https://live.youlive-cdn.com/02_FoxSport3_TH_720p/chunklist.m3u8
+http://bit.ly/2lLylI1
 #EXTINF:-1 tvg-logo="https://www.doofree99.com/xcrud/uploads/g2p4ejvka9wkscc400.png" group-title="Thailand",Bein Sport1
-https://live.youlive-cdn.com/02_epl1_720p/chunklist.m3u8
+http://bit.ly/2msBYTB
 #EXTINF:-1 tvg-logo="https://www.doofree99.com/xcrud/uploads/qg4020g5vu8s0ko48s.png" group-title="Thailand",Bein Sport2
-https://live.youlive-cdn.com/02_epl2_720p/chunklist.m3u8
+http://bit.ly/2mtNYUW
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png" group-title="Thailand",SKYNET SPORTS HD
-https://live.youlive-cdn.com/03_skynetsporthd_720p/chunklist.m3u8
+http://bit.ly/2nZWV8U
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports1.png" group-title="Thailand",SKYNET SPORTS1
-https://live.youlive-cdn.com/03_skynetsport1_480p/chunklist.m3u8
+http://bit.ly/2nqwAQR
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports2.png" group-title="Thailand",SKYNET SPORTS2
-https://live.youlive-cdn.com/03_skynetsport5_480p/chunklist.m3u8
+http://bit.ly/2nSVXuX
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports3.png" group-title="Thailand",SKYNET SPORTS3
-https://live.youlive-cdn.com/03_skynetsport6_480p/chunklist.m3u8
+http://bit.ly/2nihZXY
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports4.png" group-title="Thailand",SKYNET SPORTS4
 https://live.youlive-cdn.com/03_skynetsport4_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg" group-title="Thailand",SPORTS TV1 HD
