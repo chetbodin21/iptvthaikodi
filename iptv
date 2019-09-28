@@ -117,11 +117,11 @@ http://bit.ly/2mjohqd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hbo-hd.jpg" group-title="Thailand",HBO HD
 http://bit.ly/2o6zP0h
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hbo-hit.jpg" group-title="Thailand",HBO Hit
-http://bit.ly/2lP64QO
+https://live.we-play.tv/app/hbo-hit/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDE5IDExOjI0OjI0IFBNJmhhc2hfdmFsdWU9K0QrRzlVUEU0Nk4yRE9NQWkvUDltUT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hbo-signature.jpg" group-title="Thailand",HBO Signature
-http://bit.ly/2ns8HbX
+https://live.we-play.tv/app/hbo-signature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDE5IDExOjI0OjI0IFBNJmhhc2hfdmFsdWU9K0QrRzlVUEU0Nk4yRE9NQWkvUDltUT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hbo-family.jpg" group-title="Thailand",HBO Family
-http://bit.ly/2nppw7o
+https://live.we-play.tv/app/hbo-family/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDE5IDExOjI0OjI0IFBNJmhhc2hfdmFsdWU9K0QrRzlVUEU0Nk4yRE9NQWkvUDltUT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/foxth.jpg" group-title="Thailand",Fox TH
 http://bit.ly/2nqDCW4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-foxaction.png" group-title="Thailand",FoxAction TH
