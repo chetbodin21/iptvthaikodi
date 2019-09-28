@@ -64,6 +64,26 @@ https://live.youlive-cdn.com/02_FoxSport3_TH_720p/chunklist.m3u8
 https://live.youlive-cdn.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doofree99.com/xcrud/uploads/qg4020g5vu8s0ko48s.png" group-title="Thailand",Bein Sport2
 https://live.youlive-cdn.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png" group-title="Thailand",SKYNET SPORTS HD
+https://live.youlive-cdn.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports1.png" group-title="Thailand",SKYNET SPORTS1
+https://live.youlive-cdn.com/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports2.png" group-title="Thailand",SKYNET SPORTS2
+https://live.youlive-cdn.com/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports3.png" group-title="Thailand",SKYNET SPORTS3
+https://live.youlive-cdn.com/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports4.png" group-title="Thailand",SKYNET SPORTS4
+https://live.youlive-cdn.com/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg" group-title="Thailand",SPORTS TV1 HD
+https://live.youlive-cdn.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg" group-title="Thailand",SPORTS TV2 HD
+https://live.youlive-cdn.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv5.jpg" group-title="Thailand",SPORTS TV5 HD
+https://live.youlive-cdn.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport1.jpg" group-title="Thailand",BT SPORT HD1
+https://live.youlive-cdn.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport2.jpg" group-title="Thailand",BT SPORT HD2
+https://live.youlive-cdn.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-tennis.png" group-title="Thailand",TENNIS HD
 https://live.dufree4k.net/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-nba.png" group-title="Thailand",NBA HD
@@ -110,6 +130,10 @@ https://live.youlive-cdn.com/02_FoxThai_TH_720p/chunklist.m3u8
 https://live.youlive-cdn.com/02_FXThailand_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxcrime.jpg" group-title="Thailand",FoxCrimeHD TH
 https://live.youlive-cdn.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tfilm.jpg" group-title="Thailand",TRUE FILM HD1
+https://live.youlive-cdn.com/02_TrueFilmHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tfilm.jpg" group-title="Thailand",TRUE FILM HD2
+https://live.youlive-cdn.com/02_TrueFilmHD2_720p/chunklist.m3u8
 
 
 #EXTM3U
