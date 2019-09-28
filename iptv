@@ -104,10 +104,14 @@ http://bit.ly/2o1SSJh
 http://bit.ly/2lKCax6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-warnertv.png" group-title="Thailand",WarnerTVHD
 http://bit.ly/2lOGFH9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-tfilm_3.jpg" group-title="Thailand",TRUE FILM HD 
+http://bit.ly/2lMz2Rv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-tfilm.jpg" group-title="Thailand",TRUE FILM HD s2
+http://bit.ly/2mjyV08
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-tfilm.jpg" group-title="Thailand",TRUE FILM HD2
 http://bit.ly/2nZVO9g
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-tfilm.jpg" group-title="Thailand",TRUE FILM HD
-http://bit.ly/2mjyV08
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-tfilm_4.jpg" group-title="Thailand",TRUE FILM HD2 s2
+http://bit.ly/2lQW1ee
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-foxpremium.png" group-title="Thailand",FOX MOVIES PREMIUM TH
 http://bit.ly/2mjohqd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hbo-hd.jpg" group-title="Thailand",HBO HD
@@ -128,10 +132,7 @@ http://bit.ly/2niBSy6
 http://bit.ly/2lLWLBc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-foxcrime.jpg" group-title="Thailand",FoxCrimeHD TH
 http://bit.ly/2njHdFm
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-tfilm_3.jpg" group-title="Thailand",TRUE FILM HD1
-http://bit.ly/2lMz2Rv
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-tfilm_4.jpg" group-title="Thailand",TRUE FILM HD2
-http://bit.ly/2lQW1ee
+
 
 
 #EXTM3U
