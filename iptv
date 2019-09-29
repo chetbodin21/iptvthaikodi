@@ -132,8 +132,10 @@ http://bit.ly/2niBSy6
 http://bit.ly/2lLWLBc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-foxcrime.jpg" group-title="Thailand",FoxCrimeHD TH
 http://bit.ly/2njHdFm
-
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/foxfamily.jpg" group-title="Thailand",FoxFamily TH
+http://bit.ly/2nDjS1h
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-axn.png" group-title="Thailand",AXN TH
+http://bit.ly/2nvQWZi
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fdopfeC.jpg" group-title="Thailand",13 Siam TV
