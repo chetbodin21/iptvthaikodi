@@ -12,12 +12,12 @@ http://bit.ly/2lLmFVH
 http://bit.ly/2lQuIAK
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/a01a26bb-ed4a-45c5-88a9-ff30f6bbb039.png" group-title="Thailand",CARTOON CLUB HD
 http://bit.ly/2mvUudR
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/cartoonnetwork.jpg" group-title="Thailand",Cartoonnetwork (กำลังแก้ไข)
-http://bit.ly/2mtopTX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/cartoonnetwork.jpg" group-title="Thailand",Cartoonnetwork 
+http://bit.ly/2ofm3IV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/disneych.jpg" group-title="Thailand",Disney Chanel(กำลังแก้ไข)
 http://bit.ly/2lRlSmi
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/disneyxd.jpg" group-title="Thailand",Disney XD (กำลังแก้ไข)
-http://bit.ly/2mx0tiz
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/disneyxd.jpg" group-title="Thailand",Disney XD 
+http://bit.ly/2mycwMH
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/gmm25.jpg" group-title="Thailand",GMM 25
 http://bit.ly/2lQPujK
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/tnn24.jpg" group-title="Thailand",TNN 24
@@ -114,15 +114,15 @@ http://bit.ly/2nZVO9g
 http://bit.ly/2lQW1ee
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-foxpremium.png" group-title="Thailand",FOX MOVIES PREMIUM TH
 http://bit.ly/2mjohqd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hbo-hd.jpg" group-title="Thailand",HBO HD (กำลังแก้ไข)
-http://bit.ly/2o6zP0h
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hbo-hit.jpg" group-title="Thailand",HBO Hit (กำลังแก้ไข)
-https://live.we-play.tv/app/hbo-hit/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDE5IDExOjI0OjI0IFBNJmhhc2hfdmFsdWU9K0QrRzlVUEU0Nk4yRE9NQWkvUDltUT09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hbo-signature.jpg" group-title="Thailand",HBO Signature (กำลังแก้ไข)
-https://live.we-play.tv/app/hbo-signature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDE5IDExOjI0OjI0IFBNJmhhc2hfdmFsdWU9K0QrRzlVUEU0Nk4yRE9NQWkvUDltUT09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hbo-family.jpg" group-title="Thailand",HBO Family (กำลังแก้ไข)
-https://live.we-play.tv/app/hbo-family/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDE5IDExOjI0OjI0IFBNJmhhc2hfdmFsdWU9K0QrRzlVUEU0Nk4yRE9NQWkvUDltUT09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/foxth.jpg" group-title="Thailand",Fox TH (กำลังแก้ไข)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hbo-hd.jpg" group-title="Thailand",HBO HD
+http://bit.ly/2mKkwtM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hbo-hit.jpg" group-title="Thailand",HBO Hit 
+http://bit.ly/2lXoWgz
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hbo-signature.jpg" group-title="Thailand",HBO Signature 
+http://bit.ly/2nvIGZi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-screenred.jpg" group-title="Thailand",HBO RBO
+http://bit.ly/2lYxB2t
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/foxth.jpg" group-title="Thailand",Fox TH 
 http://bit.ly/2nqDCW4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-foxaction.png" group-title="Thailand",FoxAction TH
 http://bit.ly/2lLRUzX
