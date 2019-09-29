@@ -90,6 +90,8 @@ http://bit.ly/2noEwT2
 http://bit.ly/2mwhXvg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/discovery.jpg" group-title="- ประเทศไทย",Discovery
 http://bit.ly/2nqXdVR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-animalplanet.png" group-title="- ประเทศไทย",ANIMALPLANET
+http://bit.ly/2mND3pf
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-discovery.png" group-title="- ประเทศไทย",DISCOVERY HD WORLD
 http://bit.ly/2mjn9CZ
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/h2.jpg" group-title="- ประเทศไทย",H2
@@ -136,8 +138,9 @@ http://bit.ly/2njHdFm
 http://bit.ly/2nDjS1h
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-axn.png" group-title="- ประเทศไทย",AXN TH
 http://bit.ly/2nvQWZi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-fantv.jpg" group-title="- ประเทศไทย",FAN TV
+http://bit.ly/2nDqOf7
 
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fdopfeC.jpg" group-title="- ประเทศไทย",13 Siam TV
 http://bit.ly/2lQcYp6
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7KVr5UN.png" group-title="- ประเทศไทย",69 TV
