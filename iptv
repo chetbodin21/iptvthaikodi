@@ -23,7 +23,7 @@ http://bit.ly/2lQPujK
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/tnn24.jpg" group-title="- ประเทศไทย",TNN 24
 http://bit.ly/2njgEA8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/voicetv.jpg" group-title="- ประเทศไทย",VoiceTV
-http://bit.ly/2noY7lI
+http://bit.ly/2mdG5Ty
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/news1.jpg" group-title="- ประเทศไทย",NEWS1
 http://bit.ly/2mj0iYc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/parliament.jpg" group-title="- ประเทศไทย",ทีวี รัฐสภา
@@ -36,8 +36,8 @@ http://bit.ly/2lHLf9U
 http://bit.ly/2niyYcH
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png" group-title="- ประเทศไทย",True Premier HD4
 http://bit.ly/2mj1Gdm
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png" group-title="- ประเทศไทย",True Premier HD5 (ช่องเข้ารหัส)
-http://bit.ly/2nt5atW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png" group-title="- ประเทศไทย",True Premier HD5
+http://bit.ly/2mTVtom
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/guin4r3yta80gk44k8.png" group-title="- ประเทศไทย",TrueSport HD1
 http://bit.ly/2npA6uM
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/y07ldpt07z4k4oo8cs.png" group-title="- ประเทศไทย",TrueSport HD2
@@ -219,7 +219,7 @@ http://bit.ly/2nqEuKk
 http://bit.ly/2mEvQrk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CQYsYBM.png" group-title="- ประเทศไทย",ONE HD
 http://bit.ly/2odS6c1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6BRnNCJ.png" group-title="- ประเทศไทย",Police TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6BRnNCJ.png" group-title="- ประเทศไทย",Police TV (แจ้งของเปิดช่องกับแอดมินจะลบ31วัน)
 http://bit.ly/2lSfivF
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cypjz3P.png" group-title="- ประเทศไทย",PPTV
 http://bit.ly/2mEGaQj
@@ -271,7 +271,7 @@ http://bit.ly/2mAEcAg
 http://bit.ly/2mCeSKm
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iuOMQIQ.jpg" group-title="- ประเทศไทย",Workpoint HD
 http://bit.ly/2mB3ezn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QuqwFjK.jpg" group-title="- ประเทศไทย",Zabb Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QuqwFjK.jpg" group-title="- ประเทศไทย",Zabb Channel (แจ้งของเปิดช่องกับแอดมินจะลบ31วัน)
 http://bit.ly/2nqZ7G8
 
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/9/2/9/92974648906048168f2b9fd2e9f3105b_icon.png" group-title="LABEL",~ 24/7 World News ~
