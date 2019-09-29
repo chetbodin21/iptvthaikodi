@@ -189,7 +189,7 @@ http://bit.ly/2lRTBMs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QTCQ4uT.jpg" group-title="Thailand",MCOT HD
 http://bit.ly/2o0OutZ
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Eds4E6G.png" group-title="Thailand",MONO 29
-http://bit.ly/2muJjSG
+http://bit.ly/2mN8Syj
 #EXTINF:-1 tvg-logo="https://www.doofree99.com/xcrud/uploads/xpuo33u69es0sg0cs.jpg" group-title="Thailand",MONO Plus
 http://bit.ly/2lWbF89
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5zyWnEz.jpg" group-title="Thailand",MVTV
@@ -244,14 +244,18 @@ http://bit.ly/2lTnDzn
 http://bit.ly/2nptAEG
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b4l0w2m.png" group-title="Thailand",Thai PBS 3
 http://bit.ly/2mB15nj
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XXnVYFi.png" group-title="Thailand",Thai TV 3
-http://bit.ly/2mCdKX8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-ch3.png" group-title="Thailand",Thai TV 3 HD
+http://bit.ly/2nBHUKb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-ch3digi.png" group-title="Thailand",Thai TV 3 SD
+http://bit.ly/2m14Hi3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-ch3family.png" group-title="Thailand",Thai TV 3 Family
+http://bit.ly/2nEEjeg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kW42rzh.png" group-title="Thailand",Thai TV 5
 http://bit.ly/2o46Dac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0AiJcrC.png" group-title="Thailand",Thairath TV 32
 http://bit.ly/2nofaVb
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0AiJcrC.png" group-title="Thailand",Thairath TV 32
-http://bit.ly/2o3Chod
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0AiJcrC.png" group-title="Thailand",Thairath TV 32 HD
+http://bit.ly/2nEBqKs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/r19wKD3.jpg" group-title="Thailand",TV 1000 Action
 http://bit.ly/2nqFJZU
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JxqQaWr.jpg" group-title="Thailand",TV Direct 1
