@@ -152,8 +152,8 @@ http://bit.ly/2mtpRWp
 http://bit.ly/2mtpRWp
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fzhPKog.png" group-title="Thailand",Channel 7
 http://bit.ly/2lMr62y
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fzhPKog.png" group-title="Thailand",Channel 7
-http://bit.ly/2nWtRyY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-ch7.png" group-title="Thailand",Channel 7 HD
+http://bit.ly/2mL5qV3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hzdMjA1.jpg" group-title="Thailand",Channel 8
 http://bit.ly/2mt6xII
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hzdMjA1.jpg" group-title="Thailand",Channel 8
@@ -190,7 +190,7 @@ http://bit.ly/2lRTBMs
 http://bit.ly/2o0OutZ
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Eds4E6G.png" group-title="Thailand",MONO 29
 http://bit.ly/2mN8Syj
-#EXTINF:-1 tvg-logo="https://www.doofree99.com/xcrud/uploads/xpuo33u69es0sg0cs.jpg" group-title="Thailand",MONO Plus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/xpuo33u69es0sg0cs.jpg" group-title="Thailand",MONO Plus
 http://bit.ly/2lWbF89
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5zyWnEz.jpg" group-title="Thailand",MVTV
 http://bit.ly/2nquoc4
