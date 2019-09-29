@@ -14,8 +14,8 @@ http://bit.ly/2lQuIAK
 http://bit.ly/2mvUudR
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/cartoonnetwork.jpg" group-title="- ประเทศไทย",CartoonNetwork 
 http://bit.ly/2ofm3IV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/disneych.jpg" group-title="- ประเทศไทย",Disney Chanel(กำลังแก้ไข)
-http://bit.ly/2lRlSmi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/disneych.jpg" group-title="- ประเทศไทย",Disney Chanel
+http://bit.ly/2nNCVpJ
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/disneyxd.jpg" group-title="- ประเทศไทย",Disney XD 
 http://bit.ly/2mycwMH
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/gmm25.jpg" group-title="- ประเทศไทย",GMM 25
@@ -86,6 +86,14 @@ http://bit.ly/2lRiDLG
 http://bit.ly/2noRGPC
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-nba.png" group-title="- ประเทศไทย",NBA HD
 http://bit.ly/2noEwT2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/truelife.jpg" group-title="- ประเทศไทย",TRUE Explore Life
+http://bit.ly/2nL0VK8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/truewild.jpg" group-title="- ประเทศไทย",TRUE Explore Wild
+http://bit.ly/2m8c5Ix
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/truesci.jpg" group-title="- ประเทศไทย",TRUE Explore SO
+http://bit.ly/2maGdTN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-tlc.jpg" group-title="- ประเทศไทย",TLC
+http://bit.ly/2mWpSCi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-samrujlok.jpg" group-title="- ประเทศไทย",สำรวจโลก HD
 http://bit.ly/2mwhXvg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/discovery.jpg" group-title="- ประเทศไทย",Discovery
