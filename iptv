@@ -14,7 +14,7 @@ http://bit.ly/2lQuIAK
 http://bit.ly/2mvUudR
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/cartoonnetwork.jpg" group-title="- ประเทศไทย",CartoonNetwork 
 http://bit.ly/2ofm3IV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/disneych.jpg" group-title="- ประเทศไทย",Disney Chanel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/disneych.jpg" group-title="- ประเทศไทย",Disney Chanel (กำลังแก้ไข)
 http://bit.ly/2nNCVpJ
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/disneyxd.jpg" group-title="- ประเทศไทย",Disney XD 
 http://bit.ly/2mycwMH
@@ -22,7 +22,7 @@ http://bit.ly/2mycwMH
 http://bit.ly/2lQPujK
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/tnn24.jpg" group-title="- ประเทศไทย",TNN 24
 http://bit.ly/2njgEA8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/voicetv.jpg" group-title="- ประเทศไทย",VoiceTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/voicetv.jpg" group-title="- ประเทศไทย",VoiceTV (กำลังแก้ไข)
 http://bit.ly/2mdG5Ty
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/news1.jpg" group-title="- ประเทศไทย",NEWS1
 http://bit.ly/2mj0iYc
@@ -36,7 +36,7 @@ http://bit.ly/2lHLf9U
 http://bit.ly/2niyYcH
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png" group-title="- ประเทศไทย",True Premier HD4
 http://bit.ly/2mj1Gdm
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png" group-title="- ประเทศไทย",True Premier HD5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png" group-title="- ประเทศไทย",True Premier HD5 (กำลังแก้ไข)
 http://bit.ly/2mTVtom
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/guin4r3yta80gk44k8.png" group-title="- ประเทศไทย",TrueSport HD1
 http://bit.ly/2npA6uM
@@ -86,13 +86,13 @@ http://bit.ly/2lRiDLG
 http://bit.ly/2noRGPC
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-nba.png" group-title="- ประเทศไทย",NBA HD
 http://bit.ly/2noEwT2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/truelife.jpg" group-title="- ประเทศไทย",TRUE Explore Life
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/truelife.jpg" group-title="- ประเทศไทย",TRUE Explore Life (กำลังแก้ไข)
 http://bit.ly/2nL0VK8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/truewild.jpg" group-title="- ประเทศไทย",TRUE Explore Wild
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/truewild.jpg" group-title="- ประเทศไทย",TRUE Explore Wild (กำลังแก้ไข)
 http://bit.ly/2m8c5Ix
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/truesci.jpg" group-title="- ประเทศไทย",TRUE Explore SO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/truesci.jpg" group-title="- ประเทศไทย",TRUE Explore SO (กำลังแก้ไข)
 http://bit.ly/2maGdTN
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-tlc.jpg" group-title="- ประเทศไทย",TLC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-tlc.jpg" group-title="- ประเทศไทย",TLC (กำลังแก้ไข)
 http://bit.ly/2mWpSCi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-samrujlok.jpg" group-title="- ประเทศไทย",สำรวจโลก HD
 http://bit.ly/2mwhXvg
@@ -189,12 +189,8 @@ http://bit.ly/2o0tx2m
 http://bit.ly/2nTzaiC
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bYMtfRn.png" group-title="- ประเทศไทย",MCOT 30
 http://bit.ly/2nTPJej
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/etDEn5q.jpg" group-title="- ประเทศไทย",MCOT FAMILY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/etDEn5q.jpg" group-title="- ประเทศไทย",MCOT FAMILY (กำลังแก้ไข)
 http://bit.ly/2lQhjbS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/etDEn5q.jpg" group-title="- ประเทศไทย",MCOT FAMILY 14
-http://bit.ly/2mkt4aS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/etDEn5q.jpg" group-title="- ประเทศไทย",MCOT FAMILY 14
-http://bit.ly/2o0vko6
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QTCQ4uT.jpg" group-title="- ประเทศไทย",MCOT HD
 http://bit.ly/2lRTBMs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QTCQ4uT.jpg" group-title="- ประเทศไทย",MCOT HD
