@@ -1,6 +1,6 @@
 #EXTM3U
  
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="- อัพเดทล่าสุด: 10.03.2019",- อัพเดทล่าสุด: 10.03.2019
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="- อัพเดทล่าสุด: 10.02.2019",- อัพเดทล่าสุด: 10.02.2019
 http://bit.ly/2nqMJXb
 
 
@@ -10795,7 +10795,7 @@ https://ott-live.olympicchannel.com/out/u/OC5_2.m3u8
 https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/60kby94vmDfhktKcXCq.jpg" group-title="- หนัง",HITMAN: AGENT 47 (2015) ฮิทแมน: สายลับ 47
-http://bit.ly/2mLb7SO
+https://www302.playercdn.net/88/0/LiYGXlq0giJzLXs8kixP2A/1570063645/191002/553G7K4CWHJPYDMJEIXNB.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2ppa0t5" group-title="- หนัง",Braven (2018) คนกล้า สู้ล้างเดน
 http://bit.ly/2oBNlsU
 #EXTINF:-1 tvg-logo="http://bit.ly/2nSwMsW" group-title="- หนัง",Remi, Nobody's Boy (2019) เรมี่ หนุ่มน้อยเสียงมหัศจรรย์
@@ -10840,3 +10840,17 @@ http://bit.ly/2oybtga
 http://bit.ly/2owqmQg
 #EXTINF:-1 tvg-logo="http://bit.ly/2nUxTYZ" group-title="- หนัง",Alita: Battle Angel (2019) อลิตา แบทเทิล แองเจิ้ล
 http://bit.ly/2mUJKWu
+#EXTINF:-1 tvg-logo="https://www.ดูหนัง.online/wp-content/uploads/2019/10/Journey-2-The-Mysterious-Island-2012.jpg" group-title="- หนัง",JOURNEY 2 THE MYSTERIOUS ISLAND (2012) พิชิตเกาะพิศวงอัศจรรย์สุดโลก
+https://www1057.playercdn.net/88/0/YqouBtOsvlUFKhAMq9PwuA/1570063599/191002/618G7K71OXNSPFJEWXATS.mp4
+#EXTINF:-1 tvg-logo="https://www.ดูหนัง.online/wp-content/uploads/2019/10/Journey-to-the-Center-of-the-Earth-2008.jpg" group-title="- หนัง",Journey 1 to the Center of the Earth (2008) ดิ่งทะลุสะดือโลก
+https://www126.playercdn.net/88/1/bUISaqz0oM5eNM8DDdYNFw/1570063549/191002/575G7K595UY75S01Q3EX9.mp4
+#EXTINF:-1 tvg-logo="https://www.ดูหนัง.online/wp-content/uploads/2019/09/The-Hustler-1961.jpg" group-title="- หนัง",The Hustler (1961) นักธุรกิจ
+https://edge-ns1.leoplayer1.com/hls/e099869935c0ff82062155d10da705e1/e099869935c0ff82062155d10da705e1.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.ดูหนัง.online/wp-content/uploads/2019/09/Underworld-Awakening-2012.jpg" group-title="- หนัง",Underworld: Awakening (2012) สงครามโค่นพันธุ์อสูร 4: กำเนิดใหม่ราชินีแวมไพร์
+https://edge-ns2.leoplayer1.com/hls/00fd3f7cd7b444f9e7a4243b3c438494/00fd3f7cd7b444f9e7a4243b3c438494.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.ดูหนัง.online/wp-content/uploads/2019/09/Underworld-Rise-of-the-Lycans-2009.jpg group-title="- หนัง",Underworld: Rise of the Lycans (2009) สงครามโค่นพันธุ์อสูร: ปลดแอกจอมทัพอสูร
+https://edge-ns1.leoplayer1.com/hls/982e78a7559cbc1af498748dac8f2a0a/982e78a7559cbc1af498748dac8f2a0a.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.ดูหนัง.online/wp-content/uploads/2019/09/Underworld-Evolution-2006.jpg" group-title="- หนัง",Underworld: Evolution (2006) สงครามโค่นพันธุ์อสูร: อีโวลูชั่น
+https://edge-ns1.leoplayer1.com/hls/64f9d75e1d14e9897e8ae67d1b415e0d/64f9d75e1d14e9897e8ae67d1b415e0d.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.ดูหนัง.online/wp-content/uploads/2019/09/Underworld-2003.jpg" group-title="- หนัง",Underworld (2003) สงครามโค่นพันธุ์อสูร
+https://edge-ns2.leoplayer1.com/hls/cc2e7f815b4a47c4b60894c37d3695a2/cc2e7f815b4a47c4b60894c37d3695a2.playlist.m3u8
