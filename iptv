@@ -10794,29 +10794,33 @@ https://ott-live.olympicchannel.com/out/u/OC5_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="24/7 OLYMPICS",Olympic Channel 5 (UHD)
 https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/60kby94vmDfhktKcXCq.jpg" group-title="- หนัง",HITMAN: AGENT 47 (2015) ฮิทแมน: สายลับ 47 (ทดสอบ)
-http://bit.ly/2mWjmvq
-#EXTINF:-1 tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/zPVu1SdqL4X761y9OG8.jpg" group-title="- หนัง",Life of Pi (2012) ชีวิตอัศจรรย์ของพาย
-http://bit.ly/2mTpQLI
-#EXTINF:-1 tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/10/In-the-Shadow-of-the-Moon-2019-Netflix.jpg" group-title="- หนัง",In the Shadow of the Moon | Netflix (2019) ย้อนรอยจันทรฆาต
-http://bit.ly/2omPZTs
-#EXTINF:-1 tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/09/0.0-Mhz-%E0%B8%9C%E0%B8%B5%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%83%E0%B8%99%E0%B8%9C%E0%B8%A1-2019.jpg" group-title="- หนัง",0.0 MHz (2019) ผีอยู่ในผม
-http://bit.ly/2onapM4
-#EXTINF:-1 tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/09/Exit-Eksiteu-%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A1%E0%B8%AD%E0%B8%81%E0%B8%9E%E0%B8%B4%E0%B8%A9-%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%A3%E0%B8%B1%E0%B8%81-2019.jpg" group-title="- หนัง",Exit (2019) ฝ่าหมอกพิษ ภารกิจรัก
-http://bit.ly/2okNX6h
-#EXTINF:-1 tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/09/We-Have-Always-Lived-in-the-Castle-2018.jpg" group-title="- หนัง",WE HAVE ALWAYS LIVED IN THE CASTLE (2018) บนดวงจันทร์ที่ไม่มีใครเป็นเจ้าของ
-http://bit.ly/2onlOvm
-#EXTINF:-1 tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/09/Burn-2019.jpg" group-title="- หนัง",Burn (2019) เบิร์น เอา มัน ไป เผา
-http://bit.ly/2opmCzR
-#EXTINF:-1 tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/09/Papillon-2017-%E0%B8%9B%E0%B8%B2%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%AD%E0%B8%87-%E0%B8%AB%E0%B8%99%E0%B8%B5%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B9%80%E0%B8%94%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%9A.png" group-title="- หนัง",Papillon (2017) ปาปิยอง หนีตายเเดนดิบ
-http://bit.ly/2nyc55y
-#EXTINF:-1 tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/06/Destroyer-2018.jpg" group-title="- หนัง",Destroyer (2018) เธอคือผู้พิฆาต
-http://bit.ly/2paHafL
-#EXTINF:-1 tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/PTMxRZroGnAS3Z1jM5r.jpg" group-title="- หนัง",สายล่อฟ้า Pattaya Maniac (2004)
-http://bit.ly/2ovbjGf
-#EXTINF:-1 tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/09/A-Dog-s-Journey-2019.jpg" group-title="- หนัง",A Dog’s Journey (2019) หมา เป้าหมาย และเด็กชายของผม 2
-http://bit.ly/2osaJsQ
-#EXTINF:-1 tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/BqcwJqzlQ5SjQMGaYVs.jpg" group-title="- หนัง",Independence Day 2: Resurgence (2016) ไอดี 4: สงครามใหม่วันบดโลก
-http://bit.ly/2nKevhf
-
-
+#EXTINF:-1 tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/60kby94vmDfhktKcXCq.jpg" group-title="- หนัง",HITMAN: AGENT 47 (2015) ฮิทแมน: สายลับ 47
+http://bit.ly/2mLb7SO
+#EXTINF:-1 tvg-logo="http://bit.ly/2ppa0t5" group-title="- หนัง",Braven (2018) คนกล้า สู้ล้างเดน
+http://bit.ly/2oBNlsU
+#EXTINF:-1 tvg-logo="http://bit.ly/2nSwMsW" group-title="- หนัง",Remi, Nobody's Boy (2019) เรมี่ หนุ่มน้อยเสียงมหัศจรรย์
+http://bit.ly/2nHUGaF
+#EXTINF:-1 tvg-logo="http://bit.ly/2ouuNuW" group-title="- หนัง",The Queen's Corgi (2019) จุ้นสี่ขา หมาเจ้านาย
+http://bit.ly/2pkoyKo
+#EXTINF:-1 tvg-logo="http://bit.ly/2pplXPv" group-title="- หนัง",The Best of Enemies (2019) ศัตรูที่ดีที่สุด
+http://bit.ly/2pqCdzT
+#EXTINF:-1 tvg-logo="http://bit.ly/2nU3lGN" group-title="- หนัง",Little (2019) ลิตเติ้ล
+http://bit.ly/2oDwk1x
+#EXTINF:-1 tvg-logo="http://bit.ly/2nVvflI" group-title="- หนัง",Family (2018) แฟมิลี่
+http://bit.ly/2nVuEAu
+#EXTINF:-1 tvg-logo="http://bit.ly/2nIPFi2" group-title="- หนัง",Batman: Hush (2019) แบทแมน: ความเงียบ
+http://bit.ly/2nIPFi2
+#EXTINF:-1 tvg-logo="http://bit.ly/2oAKWz2" group-title="- หนัง",The Swan Princess: Kingdom of Music (2019) อาณาจักรแห่งดนตรี
+http://bit.ly/2ouCNvY
+#EXTINF:-1 tvg-logo="http://bit.ly/2pkyhjS" group-title="- หนัง",Men in Black 4 International (2019) หน่วยจารชนสากลพิทักษ์โลก
+http://bit.ly/2nRE3Jv
+#EXTINF:-1 tvg-logo="http://bit.ly/2nVA4M3" group-title="- หนัง",BRIGHTBURN (2019) เด็กพลังอสูร
+http://bit.ly/2nG4h1D
+#EXTINF:-1 tvg-logo="http://bit.ly/2phFrW3" group-title="- หนัง",THE SECRET LIFE OF PETS 2 (2019) เรื่องลับแก๊งขนฟู 2
+http://bit.ly/2nRYDcH
+#EXTINF:-1 tvg-logo="http://bit.ly/2nS1d2n" group-title="- หนัง",ANNABELLE COMES HOME (2019) แอนนาเบลล์ ตุ๊กตาผีกลับบ้าน
+http://bit.ly/2n2iMMS
+#EXTINF:-1 tvg-logo="http://bit.ly/2mWPA9S" group-title="- หนัง",GODZILLA 2: KING OF THE MONSTERS (2019) ก็อดซิลล่า 2: ราชันแห่งมอนสเตอร์
+http://bit.ly/2mWQnYo
+#EXTINF:-1 tvg-logo="http://bit.ly/2oAxP0s" group-title="- หนัง",Aladdin (2019) อาละดิน
+http://bit.ly/2nSQJ2O
