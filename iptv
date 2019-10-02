@@ -10794,5 +10794,7 @@ https://ott-live.olympicchannel.com/out/u/OC5_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="24/7 OLYMPICS",Olympic Channel 5 (UHD)
 https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/60kby94vmDfhktKcXCq.jpg" group-title="- หนัง", HITMAN: AGENT 47 (2015) ฮิทแมน: สายลับ 47
+#EXTINF:-1 tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/60kby94vmDfhktKcXCq.jpg" group-title="- หนัง",HITMAN: AGENT 47 (2015) ฮิทแมน: สายลับ 47
 http://bit.ly/2mLb7SO
+#EXTINF:-1 tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/zPVu1SdqL4X761y9OG8.jpg" group-title="- หนัง",Life of Pi (2012) ชีวิตอัศจรรย์ของพาย
+http://bit.ly/2mTpQLI
