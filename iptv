@@ -1,6 +1,6 @@
 #EXTM3U
  
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="- อัพเดทล่าสุด: 10.03.2019",- อัพเดทล่าสุด: 10.03.2019
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="- อัพเดทล่าสุด: 10.04.2019",- อัพเดทล่าสุด: 10.04.2019
 http://bit.ly/2nqMJXb
 
 
@@ -14,8 +14,8 @@ http://bit.ly/2lQuIAK
 http://bit.ly/2mvUudR
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/cartoonnetwork.jpg" group-title="- ประเทศไทย",CartoonNetwork 
 http://bit.ly/2ofm3IV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/disneych.jpg" group-title="- ประเทศไทย",Disney Chanel (กำลังแก้ไข)
-http://bit.ly/2nNCVpJ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/disneych.jpg" group-title="- ประเทศไทย",Disney Channel 
+http://bit.ly/2pDBFqc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/disneyxd.jpg" group-title="- ประเทศไทย",Disney XD 
 http://bit.ly/2mycwMH
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/gmm25.jpg" group-title="- ประเทศไทย",GMM 25
@@ -60,8 +60,6 @@ http://bit.ly/2lPtoOw
 http://bit.ly/2lLylI1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/g2p4ejvka9wkscc400.png" group-title="- ประเทศไทย",Bein Sport1
 http://bit.ly/2msBYTB
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/g2p4ejvka9wkscc400.png" group-title="- ประเทศไทย",Bein Sport1 (อัพเดททุกวัน)
-http://tiny.cc/beINSports1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/qg4020g5vu8s0ko48s.png" group-title="- ประเทศไทย",Bein Sport2
 http://bit.ly/2mtNYUW
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-skynetsportshd.png" group-title="- ประเทศไทย",SKYNET SPORTS HD
@@ -10969,3 +10967,54 @@ https://edge-ns1.leoplayer1.com/hls/35c818cf0b9f557bc09142314cbec1f0/35c818cf0b9
 https://edge-ns1.leoplayer1.com/hls/2d0970b636550e25ae44578bbee06464/2d0970b636550e25ae44578bbee06464.playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Doubting-Thomas-2018.jpg" group-title="- หนัง",DOUBTING THOMAS (2018) ศรัทธาแห่งรักจากหัวใจ
 https://edge-ns1.leoplayer1.com/hls/324350d6dd0af681b2ea0e7c48b96f01/324350d6dd0af681b2ea0e7c48b96f01.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Shot-Caller-2017.jpg" group-title="- หนัง",SHOT CALLER (2017) อหังการ์คนคุกแดนทมิฬ
+https://edge-ns1.leoplayer1.com/hls/92d7440bdbd72ea1fdbd8b4e620f0251/92d7440bdbd72ea1fdbd8b4e620f0251.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/The-Whole-Truth-2016.jpg" group-title="- หนัง",THE WHOLE TRUTH (2016) ความจริงทั้งหมด
+https://edge-ns1.leoplayer1.com/hls/df34c46d5d58e189c13688d92e8e835a/df34c46d5d58e189c13688d92e8e835a.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Take-Point-2018.jpg" group-title="- หนัง",TAKE POINT (2018) ภารกิจลับท้านรก
+https://edge-ns2.leoplayer1.com/hls/30293701886981a97de9a2e6037b331e/30293701886981a97de9a2e6037b331e.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Everyday-I-Love-You-Netflix-2015.jpg" group-title="- หนัง",EVERYDAY I LOVE YOU | NETFLIX (2015) จะวันไหน ยังไงก็รักเธอ
+https://edge-ns2.leoplayer1.com/hls/87586019c220f6e57b9f274bb27128a5/87586019c220f6e57b9f274bb27128a5.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Bill-Burr-Paper-Tiger-Netflix-2019.jpg" group-title="- หนัง",BILL BURR: PAPER TIGER | NETFLIX (2019) บิล เบอร์ เสือกระดาษ
+https://edge-ns2.leoplayer1.com/hls/9ab75765bc077c6d6fe6a27398ce22e8/9ab75765bc077c6d6fe6a27398ce22e8.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Aterrados-2017.jpg" group-title="- หนัง",ATERRADOS | NETFLIX (2017) คดีผวาซ่อนเงื่อน
+https://edge-ns1.leoplayer1.com/hls/6522358c95832dec6236c55aea456976/6522358c95832dec6236c55aea456976.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/The-Humanity-Bureau-2017.jpg" group-title="- หนัง",THE HUMANITY BUREAU (2017) ที่ทำการ มนุษยศาสตร์
+https://edge-ns2.leoplayer1.com/hls/b1e3d211e2e9db38920fe0850fa961c6/b1e3d211e2e9db38920fe0850fa961c6.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/The-Haunting-1999.jpg" group-title="- หนัง",THE HAUNTING (1999) หลอน…ขนหัวลุก
+https://edge-ns1.leoplayer1.com/hls/b5bfa0ead0344d016682a6c7a2903d38/b5bfa0ead0344d016682a6c7a2903d38.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Pacific-Heights-1990.jpg" group-title="- หนัง",PACIFIC HEIGHTS (1990) วิมานกระตุกขวัญ
+https://edge-ns1.leoplayer1.com/hls/d22b6fe85928f6b470f24982ab7ffbca/d22b6fe85928f6b470f24982ab7ffbca.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Miss-Evers-Boys-1997.jpg" group-title="- หนัง",MISS EVERS’ BOYS (1997) (บรรยายไทย)
+https://edge-ns2.leoplayer1.com/hls/9ef2b3a627746c10f0f40b0f19a3c260/9ef2b3a627746c10f0f40b0f19a3c260.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Tall-Girl-2019.png" group-title="- หนัง",TALL GIRL | NETFLIX (2019) รักยุ่งของสาวโย่ง
+https://edge-ns2.leoplayer1.com/hls/afe8411401667862251563b55a5fe2be/afe8411401667862251563b55a5fe2be.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Spread-2009.jpg" group-title="- หนัง",SPREAD (2009) เพลย์บอย..หัวใจปิ๊งรัก
+https://edge-ns1.leoplayer1.com/hls/0351976198d53b534272cfc6a40d186d/0351976198d53b534272cfc6a40d186d.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Godzilla-Against-MechaGodzilla-2002.jpg" group-title="- หนัง",GODZILLA AGAINST MECHAGODZILLA (2002) ก็อดซิลลา สงครามโค่นจอมอสูร
+https://edge-ns1.leoplayer1.com/hls/e72dff249a67dc76664cc450bf5eb5a2/e72dff249a67dc76664cc450bf5eb5a2.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/The-Shaggy-Dog-2006.jpeg" group-title="- หนัง",THE SHAGGY DOG (2006) คุณพ่อพันธุ์โฮ่ง
+https://edge-ns1.leoplayer1.com/hls/30e751ed2d69fda86392fab8166bd07e/30e751ed2d69fda86392fab8166bd07e.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Shanghai-Fortress-2019.jpg" group-title="- หนัง",SHANGHAI FORTRESS | NETFLIX (2019) เซี่ยงไฮ้ ปราการมหากาฬ
+https://edge-ns2.leoplayer1.com/hls/62558355043b75a236c748c7fa8f5b6f/62558355043b75a236c748c7fa8f5b6f.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Modest-Heroes-Ponoc-Short-Films-Theatre-2018.jpg" group-title="- หนัง",MODEST HEROES PONOC SHORT FILMS THEATRE | NETFLIX (2018) ฮีโร่เดินดิน: ภาพยนตร์สั้นจาก STUDIO PONOC
+https://edge-ns1.leoplayer1.com/hls/bed3c570231825d0ccfaf6cf8768b711/bed3c570231825d0ccfaf6cf8768b711.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/The-Poison-Rose-2019.jpg" group-title="- หนัง",THE POISON ROSE (2019) กุหลาบพิษ
+https://edge-ns1.leoplayer1.com/hls/738e2f7c23b33d996767b1c751d3caf4/738e2f7c23b33d996767b1c751d3caf4.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Our-Godfather-2019.jpg" group-title="- หนัง",OUR GODFATHER | NETFLIX (2019) เจ้าพ่อผู้โค่นมาเฟีย
+https://edge-ns1.leoplayer1.com/hls/88df03839c28e1b56db2bc9f634da1a3/88df03839c28e1b56db2bc9f634da1a3.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Killer-High-2018.jpg" group-title="- หนัง",KILLER HIGH (2018) นักฆ่าระดับสูง
+https://edge-ns1.leoplayer1.com/hls/56112d4505ad98b6b29ffe7594292da7/56112d4505ad98b6b29ffe7594292da7.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Article-15-2019.jpg" group-title="- หนัง",ARTICLE 15 | NETFLIX (2019) มาตรา 15
+https://edge-ns1.leoplayer1.com/hls/e1c85eb915db53f48aeaa331aaf1f5c3/e1c85eb915db53f48aeaa331aaf1f5c3.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/07/Childs-Play-2019-%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%9D%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99.jpg" group-title="- หนัง",CHILD’S PLAY (2019) คลั่งฝังหุ่น
+https://edge-ns1.leoplayer1.com/hls/79d265da31c6685f57b7caa2d1823c18/79d265da31c6685f57b7caa2d1823c18.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/07/John-Wick-Chapter-3.jpg" group-title="- หนัง",JOHN WICK: CHAPTER 3 – PARABELLUM (2019) จอห์น วิค แรงกว่านรก 3
+https://edge-ns2.leoplayer1.com/hls/6550d367acd2ad792486a47af52b2db7/6550d367acd2ad792486a47af52b2db7.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Cold-Pursuit-2019-%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%99%E0%B8%A3%E0%B8%81.jpg" group-title="- หนัง",COLD PURSUIT (2019) แค้นลั่นนรก
+https://edge-ns1.leoplayer1.com/hls/b0a86e9c9977eaf25f4fc5e34adf01f9/b0a86e9c9977eaf25f4fc5e34adf01f9.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/The-Thaw-2009.jpg" group-title="- หนัง",THE THAW (2009) นรกเยือกแข็ง อสูรเขมือบโลก
+https://edge-ns1.leoplayer1.com/hls/01ef726ff62d1160230cb4689a18b202/01ef726ff62d1160230cb4689a18b202.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/200-Pounds-Beauty-2006.jpg" group-title="- หนัง",200 POUNDS BEAUTY (2006) ฮันนะซัง สวยสั่งได้
+https://edge-ns2.leoplayer1.com/hls/a4a175b03f36968776f586f25ba53a3e/a4a175b03f36968776f586f25ba53a3e.playlist.m3u8
