@@ -152,6 +152,42 @@ http://bit.ly/2nDjS1h
 http://bit.ly/2nvQWZi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-fantv.jpg" group-title="- ประเทศไทย",FAN TV
 http://bit.ly/2nDqOf7
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/drawing-football-photo-4.png" group-title="- ประเทศไทย",Southampton vs Chelsea
+#EXTVLCOPT:http-referrer=http://60fps.live/southampton-vs-chelsea/?link=1&utm_source=soccer100
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+http://bit.ly/2ALDIL4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/drawing-football-photo-4.png" group-title="- ประเทศไทย",Manchester City vs Wolverhampton Wanderers
+http://bit.ly/2VkblNS
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/drawing-football-photo-4.png" group-title="- ประเทศไทย",Arsenal vs AFC Bournemouth
+#EXTVLCOPT:http-referrer=http://60fps.live/arsenal-vs-afc-bournemouth/?link=1&utm_source=soccer100
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+http://bit.ly/30KkWys
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/drawing-football-photo-4.png" group-title="- ประเทศไทย",Southampton vs Chelsea (Backup)
+https://sgp-haproxy.angelthump.com/hls/gsgbvcbcvbv_src/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/drawing-football-photo-4.png" group-title="- ประเทศไทย",Real Valladolid vs Atlético Madrid
+#EXTVLCOPT:http-referrer=http://60fps.live/real-valladolid-vs-atletico-madrid/?link=1&utm_source=soccer100
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+http://cdn.60fps.live/live/yp4/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/drawing-football-photo-4.png" group-title="- ประเทศไทย",Manchester City vs Wolverhampton Wanderers (Backup)
+#EXTVLCOPT:http-referrer=http://60fps.live/manchester-city-vs-wolverhampton-wanderers/?link=1&utm_source=soccer100
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+http://bit.ly/2pOb4qx
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/drawing-football-photo-4.png" group-title="- ประเทศไทย",Newcastle United vs Manchester United (UK)
+#EXTVLCOPT:http-referrer=http://60fps.live/newcastle-united-vs-manchester-united/?link=1&utm_source=soccer100
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+http://bit.ly/2ALDIL4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/drawing-football-photo-4.png" group-title="- ประเทศไทย",Newcastle United vs Manchester United (USA)
+#EXTVLCOPT:http-referrer=http://60fps.live/newcastle-united-vs-manchester-united/?link=2&utm_source=soccer100
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+http://bit.ly/2pOb4qx
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fdopfeC.jpg" group-title="- ประเทศไทย",13 Siam TV
 http://bit.ly/2lQcYp6
