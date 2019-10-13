@@ -1,6 +1,6 @@
 #EXTM3U
  
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="- อัพเดทล่าสุด: 10.10.2019",- อัพเดทล่าสุด: 10.10.2019
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="- อัพเดทล่าสุด: 10.13.19",- อัพเดทล่าสุด: 10.13.2019
 http://bit.ly/2nqMJXb
 
 
@@ -17,7 +17,6 @@ http://bit.ly/2lQuIAK
 http://bit.ly/2mvUudR
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/cartoonnetwork.jpg" group-title="- ประเทศไทย",CartoonNetwork 
 http://bit.ly/2ofm3IV
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/disneyxd.jpg" group-title="- ประเทศไทย",Disney XD 
 http://bit.ly/2mycwMH
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/gmm25.jpg" group-title="- ประเทศไทย",GMM 25
@@ -26,7 +25,6 @@ http://bit.ly/2lQPujK
 http://bit.ly/2njgEA8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/voicetv.jpg" group-title="- ประเทศไทย",VoiceTV
 http://tiny.cc/p4pqdz
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/parliament.jpg" group-title="- ประเทศไทย",ทีวี รัฐสภา
 http://bit.ly/2njo7iy
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="- ประเทศไทย",True Premier HD1
@@ -37,7 +35,10 @@ http://bit.ly/2lHLf9U
 http://bit.ly/2niyYcH
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png" group-title="- ประเทศไทย",True Premier HD4
 http://bit.ly/2mj1Gdm
-
+#EXTINF:-1 group-title="- ประเทศไทย"tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/bein1.png",BeinSport 1
+https://live.youlive-cdn.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="- ประเทศไทย"tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/bein2.png",BeinSport 2 
+https://live.youlive-cdn.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/guin4r3yta80gk44k8.png" group-title="- ประเทศไทย",TrueSport HD1
 http://bit.ly/2npA6uM
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/y07ldpt07z4k4oo8cs.png" group-title="- ประเทศไทย",TrueSport HD2
@@ -54,13 +55,10 @@ http://bit.ly/2njHJTG
 http://bit.ly/2lLxreB
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-foxsports1.png" group-title="- ประเทศไทย",FoxSport
 http://bit.ly/2lOnvBd 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-foxsports3.png" group-title="- ประเทศไทย",FoxSport3
 http://bit.ly/2lLylI1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hi-sport.jpg" group-title="- ประเทศไทย",Hi Sport
 http://bit.ly/2LJG3fW
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-skynetsportshd.png" group-title="- ประเทศไทย",SKYNET SPORTS HD
 http://bit.ly/2nZWV8U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-skynetsports1.png" group-title="- ประเทศไทย",SKYNET SPORTS1
@@ -87,10 +85,6 @@ http://tiny.cc/3alqdz
 http://bit.ly/2noRGPC
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-nba.png" group-title="- ประเทศไทย",NBA HD
 http://bit.ly/2noEwT2
-
-
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-samrujlok.jpg" group-title="- ประเทศไทย",สำรวจโลก HD
 http://bit.ly/2mwhXvg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/discovery.jpg" group-title="- ประเทศไทย",Discovery
@@ -110,7 +104,7 @@ http://bit.ly/2o1SSJh
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-natgeopeople.jpg" group-title="- ประเทศไทย",NatGeoPEOPLE HD
 http://bit.ly/2lKCax6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-warnertv.png" group-title="- ประเทศไทย",WarnerTVHD
-http://bit.ly/2lOGFH9
+http://bit.ly/31awuLB
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-tfilm_3.jpg" group-title="- ประเทศไทย",TRUE FILM HD 
 http://bit.ly/2lMz2Rv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-tfilm.jpg" group-title="- ประเทศไทย",TRUE FILM HD s2
@@ -129,11 +123,36 @@ http://bit.ly/2lXoWgz
 http://bit.ly/2nvIGZi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-screenred.jpg" group-title="- ประเทศไทย",HBO RBO
 http://bit.ly/2lYxB2t
-
+#EXTINF:-1 group-title="- ประเทศไทย"tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hbofam.png",HBO FAMILY
+http://bit.ly/2IKtj72
+#EXTINF:-1 group-title="- ประเทศไทย"tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/truefilmhd.png",Truefilm hd
+http://bit.ly/2lMz2Rv
+#EXTINF:-1 group-title="- ประเทศไทย"tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/2018073120512464649285.jpg",Truefilm hd2
+http://bit.ly/2lQW1ee
+#EXTINF:-1 group-title="- ประเทศไทย"tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/axn.png",AXN
+http://bit.ly/2nvQWZi
+#EXTINF:-1 group-title="- ประเทศไทย"tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/foxcrime.png",Fox Crime TH
+http://bit.ly/2njHdFm
+#EXTINF:-1 group-title="- ประเทศไทย"tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/foxcrime.png",Fox Crime 
+http://bit.ly/2IMv8Ad
+#EXTINF:-1 group-title="- ประเทศไทย"tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/fxhd.png",FX HD
+http://bit.ly/2lLWLBc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-foxaction.png" group-title="- ประเทศไทย",FoxAction TH
 http://bit.ly/2lLRUzX
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-fox.png" group-title="- ประเทศไทย",FOX THAI
 http://bit.ly/2IlRWXf
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/foxfamily.png",Fox family movie
+http://bit.ly/2nDjS1h
+#EXTINF:-1 group-title="- ประเทศไทย"tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/foxactionmovie.png",FOX ACTION MOVIES TH
+http://bit.ly/2lLRUzX
+#EXTINF:-1 group-title="- ประเทศไทย"tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/foxactionmovie.png",FOX ACTION MOVIES
+http://bit.ly/2OHqyan
+#EXTINF:-1 group-title="- ประเทศไทย"tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/foxp-thai.png",Fox Movies Premium TH
+http://bit.ly/2oG07Ht
+#EXTINF:-1 group-title="- ประเทศไทย"tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/foxp-thai.png",Fox Movies Premium
+http://bit.ly/2pk8dFq
+#EXTINF:-1 group-title="- ประเทศไทย"tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/foxfamily.png",Fox family movie TH
+http://bit.ly/33ocWos
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-fx.jpg" group-title="- ประเทศไทย",FXHD TH
 http://bit.ly/2lLWLBc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-foxcrime.jpg" group-title="- ประเทศไทย",FoxCrimeHD TH
@@ -144,48 +163,11 @@ http://bit.ly/2nDjS1h
 http://bit.ly/2nvQWZi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-fantv.jpg" group-title="- ประเทศไทย",FAN TV
 http://bit.ly/2nDqOf7
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/drawing-football-photo-4.png" group-title="- ประเทศไทย",Southampton vs Chelsea
-#EXTVLCOPT:http-referrer=http://60fps.live/southampton-vs-chelsea/?link=1&utm_source=soccer100
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
-http://bit.ly/2ALDIL4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/drawing-football-photo-4.png" group-title="- ประเทศไทย",Manchester City vs Wolverhampton Wanderers
-http://bit.ly/2VkblNS
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/drawing-football-photo-4.png" group-title="- ประเทศไทย",Arsenal vs AFC Bournemouth
-#EXTVLCOPT:http-referrer=http://60fps.live/arsenal-vs-afc-bournemouth/?link=1&utm_source=soccer100
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
-http://bit.ly/30KkWys
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/drawing-football-photo-4.png" group-title="- ประเทศไทย",Southampton vs Chelsea (Backup)
-https://sgp-haproxy.angelthump.com/hls/gsgbvcbcvbv_src/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/drawing-football-photo-4.png" group-title="- ประเทศไทย",Real Valladolid vs Atlético Madrid
-#EXTVLCOPT:http-referrer=http://60fps.live/real-valladolid-vs-atletico-madrid/?link=1&utm_source=soccer100
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
-http://cdn.60fps.live/live/yp4/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/drawing-football-photo-4.png" group-title="- ประเทศไทย",Manchester City vs Wolverhampton Wanderers (Backup)
-#EXTVLCOPT:http-referrer=http://60fps.live/manchester-city-vs-wolverhampton-wanderers/?link=1&utm_source=soccer100
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
-http://bit.ly/2pOb4qx
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/drawing-football-photo-4.png" group-title="- ประเทศไทย",Newcastle United vs Manchester United (UK)
-#EXTVLCOPT:http-referrer=http://60fps.live/newcastle-united-vs-manchester-united/?link=1&utm_source=soccer100
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
-http://bit.ly/2ALDIL4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/drawing-football-photo-4.png" group-title="- ประเทศไทย",Newcastle United vs Manchester United (USA)
-#EXTVLCOPT:http-referrer=http://60fps.live/newcastle-united-vs-manchester-united/?link=2&utm_source=soccer100
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
-http://bit.ly/2pOb4qx
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fdopfeC.jpg" group-title="- ประเทศไทย",13 Siam TV
 http://bit.ly/2lQcYp6
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7KVr5UN.png" group-title="- ประเทศไทย",69 TV
 http://bit.ly/2njo6eD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2jbulL2.jpg" group-title="ประเทศไทย;News",bTV News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2jbulL2.jpg" group-title="- ประเทศไทย";News",bTV News
 http://bit.ly/2nlVOA9
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cJCwP9Z.jpg" group-title="- ประเทศไทย",Channel 2
