@@ -123,7 +123,7 @@ http://bit.ly/2lXoWgz
 http://bit.ly/2nvIGZi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-screenred.jpg" group-title="- ประเทศไทย",HBO RBO
 http://bit.ly/2lYxB2t
-#EXTINF:-1 group-title="- ประเทศไทย"tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hbofam.png",HBO FAMILY
+#EXTINF:-1 group-title="- ประเทศไทย"tvg-logo="https://teevee-hd.com/img/hbofam.png",HBO FAMILY
 http://bit.ly/2IKtj72
 #EXTINF:-1 group-title="- ประเทศไทย"tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/truefilmhd.png",Truefilm hd
 http://bit.ly/2lMz2Rv
@@ -133,7 +133,7 @@ http://bit.ly/2lQW1ee
 http://bit.ly/2nvQWZi
 #EXTINF:-1 group-title="- ประเทศไทย"tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/foxcrime.png",Fox Crime TH
 http://bit.ly/2njHdFm
-#EXTINF:-1 group-title="- ประเทศไทย"tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/foxcrime.png",Fox Crime 
+#EXTINF:-1 group-title="- ประเทศไทย"tvg-logo="https://teevee-hd.com/img/foxcrime.png",Fox Crime 
 http://bit.ly/2IMv8Ad
 #EXTINF:-1 group-title="- ประเทศไทย"tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/fxhd.png",FX HD
 http://bit.ly/2lLWLBc
@@ -145,13 +145,13 @@ http://bit.ly/2IlRWXf
 http://bit.ly/2nDjS1h
 #EXTINF:-1 group-title="- ประเทศไทย"tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/foxactionmovie.png",FOX ACTION MOVIES TH
 http://bit.ly/2lLRUzX
-#EXTINF:-1 group-title="- ประเทศไทย"tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/foxactionmovie.png",FOX ACTION MOVIES
+#EXTINF:-1 group-title="- ประเทศไทย"tvg-logo="https://teevee-hd.com/img/foxactionmovie.png",FOX ACTION MOVIES
 http://bit.ly/2OHqyan
-#EXTINF:-1 group-title="- ประเทศไทย"tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/foxp-thai.png",Fox Movies Premium TH
+#EXTINF:-1 group-title="- ประเทศไทย"tvg-logo="https://teevee-hd.com/img/foxp-thai.png",Fox Movies Premium TH
 http://bit.ly/2oG07Ht
-#EXTINF:-1 group-title="- ประเทศไทย"tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/foxp-thai.png",Fox Movies Premium
+#EXTINF:-1 group-title="- ประเทศไทย"tvg-logo="https://teevee-hd.com/img/foxp-thai.png",Fox Movies Premium
 http://bit.ly/2pk8dFq
-#EXTINF:-1 group-title="- ประเทศไทย"tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/foxfamily.png",Fox family movie TH
+#EXTINF:-1 group-title="- ประเทศไทย"tvg-logo="https://teevee-hd.com/img/foxfamily.png",Fox family movie TH
 http://bit.ly/33ocWos
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-fx.jpg" group-title="- ประเทศไทย",FXHD TH
 http://bit.ly/2lLWLBc
@@ -167,7 +167,7 @@ http://bit.ly/2nDqOf7
 http://bit.ly/2lQcYp6
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7KVr5UN.png" group-title="- ประเทศไทย",69 TV
 http://bit.ly/2njo6eD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2jbulL2.jpg" group-title="- ประเทศไทย";bTV News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2jbulL2.jpg" group-title="- ประเทศไทย",bTV News
 http://bit.ly/2nlVOA9
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cJCwP9Z.jpg" group-title="- ประเทศไทย",Channel 2
