@@ -1,6 +1,6 @@
 #EXTM3U
  
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="- อัพเดทล่าสุด: 10.13.19",- อัพเดทล่าสุด: 10.13.2019
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="- อัพเดทล่าสุด: 10.16.19",- อัพเดทล่าสุด: 10.16.2019
 http://bit.ly/2nqMJXb
 
 
@@ -11734,3 +11734,14 @@ https://edge-ns1.leoplayer1.com/hls/eb2937e350e98bcb9d7a01cb2a2fdb0f/eb2937e350e
 https://edge-ns1.leoplayer1.com/hls/fcc867f0d46616a051b8b28e0c37ae0c/fcc867f0d46616a051b8b28e0c37ae0c.playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/08/Sextuplets-2019-Sub-TH.jpg" group-title="- หนัง",SEXTUPLETS (2019) แฝด 6 ระหกระเหิน
 https://edge-ns2.leoplayer1.com/hls/1a345917ffd2beea2e069335863f4d33/1a345917ffd2beea2e069335863f4d33.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/08/Ex-Machina-2015-%E0%B8%9E%E0%B8%B4%E0%B8%A8%E0%B8%A7%E0%B8%B2%E0%B8%AA%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2.jpg" group-title="- หนัง",EX MACHINA (2015) พิศวาสจักรกลอันตราย
+https://edge-ns2.leoplayer1.com/hls/74397c2f15154decbfcc1dd2dd4f8d95/74397c2f15154decbfcc1dd2dd4f8d95.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/08/The-Dark-Tower-2017-%E0%B8%AB%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%A2%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC.jpg" group-title="- หนัง",THE DARK TOWER (2017) หอคอยทมิฬ
+https://edge-ns1.leoplayer1.com/hls/7cfa16ba3aad97ff69a3d31a16b2eb29/7cfa16ba3aad97ff69a3d31a16b2eb29.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/08/Midnight-Special-2016-%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD%E0%B9%82%E0%B8%A5%E0%B8%81.jpg" group-title="- หนัง",MIDNIGHT SPECIAL (2016) เด็กชายพลังเหนือโลก
+https://edge-ns1.leoplayer1.com/hls/f7b93e9a2e472927f26d2ad7fbbe0438/f7b93e9a2e472927f26d2ad7fbbe0438.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/08/Beasts-Of-No-Nation-2015-%E0%B9%80%E0%B8%94%E0%B8%A3%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%B2%E0%B8%99%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4.jpg" group-title="- หนัง",BEASTS OF NO NATION (2015) เดรัจฉานไร้สัญชาติ
+https://edge-ns1.leoplayer1.com/hls/e7e91428bc466f13f34f5d297b72c817/e7e91428bc466f13f34f5d297b72c817.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/08/Bastille-Day-2016.jpg" group-title="- หนัง",BASTILLE DAY (2016) ดับเบิ้ลระห่ำ ดับเบิ้ลระอุ
+https://edge-ns1.leoplayer1.com/hls/d878f435ff45c27d8fcba66be5f7ebf4/d878f435ff45c27d8fcba66be5f7ebf4.playlist.m3u8
